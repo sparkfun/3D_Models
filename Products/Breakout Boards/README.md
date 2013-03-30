@@ -1,0 +1,1 @@
+This is a category for Breakout Boards. An item is a Breakout Board if it conatins no more than a single monolithic components and a few supporting passives. If the component is a Sensor or Wireless Module than it belongs in one of those categories. 

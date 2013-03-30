@@ -1,0 +1,1 @@
+This is a category for LCDs (And OLED displays)

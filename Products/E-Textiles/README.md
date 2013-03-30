@@ -1,0 +1,1 @@
+This is a category for E-Textiles tools and accessories. 
