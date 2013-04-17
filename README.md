@@ -9,7 +9,7 @@ When posting a 3D model for a product, the file type should be:
 
     STL (Stereolithography) or SKP (SketchUp)
     
-    Scaling at 100x
+    Scaling at 1000x life size
 
     Create using Eagle Up, CREO, or any program that can output STL and/or SKP
 
