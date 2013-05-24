@@ -1,0 +1,1 @@
+There is an issue with the gears intersecting with the 'clutch' in this model. The physical dimensions are still accurate.
