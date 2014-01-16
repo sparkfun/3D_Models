@@ -1,1 +1,1 @@
-This is the complete as of 1-13-2014 line of actobotica parts in sketchup model form. These models wewre downloaded from Sparkfun Electronics and renamed to be human readable.
+This is the complete as of 1-13-2014 line of actobotics parts in sketchup model form. These models wewre downloaded from Sparkfun Electronics and renamed to be human readable.
