@@ -1,6 +1,6 @@
 <h3>3D Models for SparkFun Products!</h3>("3D ALL the things!")
 
-As 3D printers proliferate, it will become increasingly handy to have 3D models of SparkFun products for ease in 3D printing enclosures and other mechanical parts for your projects.
+As 3D printers proliferate, it will become increasingly handy to have 3D models of SparkFun products for your use in easily 3D printing enclosures and other mechanical parts for your projects.
 
 We're designing a process in-house to get the important stuff modeled, but we are few and the products are many. If you have a model to contribute, please send us a pull request! 
 
