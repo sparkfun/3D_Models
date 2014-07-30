@@ -1,7 +1,6 @@
-3D Models for SparkFun Products! 
-"3D ALL the things"
+<h3>3D Models for SparkFun Products!</h3>("3D ALL the things!")
 
-As 3D printers proliferate it will become increasing handy to have 3D models of SparkFun products so that you can easily design and print an enclosure to house the electronic bits.
+As 3D printers proliferate, it will become increasingly handy to have 3D models of SparkFun products for your use in easily 3D printing enclosures and other mechanical parts for your projects.
 
 We're designing a process in-house to get the important stuff modeled, but we are few and the products are many. If you have a model to contribute, please send us a pull request! 
 
@@ -11,9 +10,9 @@ When posting a 3D model for a product, the file type should be:
     
     Scaling at 1000x life size
 
-    Create using Eagle Up, CREO, or any program that can output STL and/or SKP
+    Created using Eagle Up, CREO, or any program that can output STL and/or SKP
 
-You don't need to provide both formats, either one is fine. We can smooth STL files into SKPs and vice versa. Also, if your source file is a different format, push that to us as well. Having the file in its native format may allow other users to improve your model down the line.
+You don't need to provide both formats: either one is fine. We can smooth STL files into SKPs and vice versa. Also, if your source file is a different format, push that to us as well. Having the file in its native format may allow other users to improve your model down the line.
 
 The repo is organized in the same way as the product catalog. If you don't know where a model goes, look at where the product is on the site. 
 
