@@ -6,3 +6,7 @@
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+# FreeCAD backup files #
+######################
+.fcstd1
