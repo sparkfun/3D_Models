@@ -1,2 +1,0 @@
-There is an issue with the gears intersecting with the 'clutch' in this model. The physical dimensions are still accurate.
-The files in the 'Assembly Files' folder are .prt files belonging to Pro Engineer/Creo

@@ -1,1 +1,0 @@
-This is a category for prototyping tools like breadboards.
