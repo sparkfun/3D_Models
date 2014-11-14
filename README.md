@@ -10,13 +10,13 @@ This is a repository of basic geometry and source CAD (if we have them) files fo
 products/{product_id}/{rev_if_applicable}/{file_type}/
 
 Ex: 
-_products/12099/iges/model.iges_
-_products/12099/step/model.step_
-_products/12099/stl/model.stl_
+products/12099/iges/model.iges
+products/12099/step/model.step
+products/12099/stl/model.stl
 
 If there were any revisions for this product_id:
-_products/11113/rev_1.0/stl/model.stl_
-_products/11113/rev_1.1/stl/model.stl_
+products/11113/rev_1.0/stl/model.stl
+products/11113/rev_1.1/stl/model.stl
 ```
 
 #### Source model structure:
@@ -24,11 +24,11 @@ _products/11113/rev_1.1/stl/model.stl_
 products/{product_id}/{rev_if_applicable}/source_{software}/
 
 Ex:
-_products/11763/source_solidworks/model.sldprt_
+products/11763/source_solidworks/model.sldprt
 
 If there were any revisions for this product_id:
-_products/11763/rev_1.0/source_solidworks/model.sldprt_
-_products/11763/rev_1.1/source_solidworks/model.sldprt_
+products/11763/rev_1.0/source_solidworks/model.sldprt
+products/11763/rev_1.1/source_solidworks/model.sldprt
 
 ```
 
