@@ -1,1 +1,0 @@
-This is a category for bare components that might be useful in modeling products that we don't sell on the storefront. Caps, resistors, ICs, connectors, etc.
