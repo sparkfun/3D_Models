@@ -3,9 +3,9 @@
 
 This is a repository of basic geometry and source CAD (if we have them) files for 3D models that appear on our website. Models are stored in real world scale.
 
-*Directory Structure*
+## Directory Structure 
 
-Product geometry model structure:
+#### Product geometry model structure:
 ```
 products/{product_id}/{rev_if_applicable}/{file_type}/
 
@@ -19,7 +19,7 @@ _products/11113/rev_1.0/stl/model.stl_
 _products/11113/rev_1.1/stl/model.stl_
 ```
 
-Source model structure:
+#### Source model structure:
 ```
 products/{product_id}/{rev_if_applicable}/source_{software}/
 
@@ -32,8 +32,8 @@ _products/11763/rev_1.1/source_solidworks/model.sldprt_
 
 ```
 
-Product display structure:
-_We can display multiple stl or obj with mtl textures_
+#### Product display structure:
+We can display multiple stl or obj with mtl textures
 ```
 products/{product_id}/display/modela.stl
 
