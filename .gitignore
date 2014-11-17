@@ -1,1 +1,6 @@
+# Ignore certain zip files
+/products/*/*.zip
+/products/*/rev_*/*.zip
+
+# OS crap
 Thumbs.db
