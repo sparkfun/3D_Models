@@ -49,8 +49,8 @@ products/8601/display/8601b_texture.png
 ## Blender Common Display Materials
 
 _Use the io_three blender addon in the https://github.com/mrdoob/three.js repository to export textured display models for our site_
+
 _Be sure to set your scene's display device to none before export to prevent colors from being gamma corrected_
-_Use these so we can keep a consistent display_
 
 #### Copper
 ```
