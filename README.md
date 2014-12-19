@@ -5,6 +5,8 @@ This is a repository of basic geometry and source CAD (if we have them) files fo
 
 ## Directory Structure
 
+Folders/files must be lowercase and only use a-z, - and _
+
 #### Product geometry model structure:
 ```
 products/{product_id}/{rev_if_applicable}/{file_type}/
