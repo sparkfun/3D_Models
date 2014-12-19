@@ -5,7 +5,7 @@ This is a repository of basic geometry and source CAD (if we have them) files fo
 
 ## Directory Structure
 
-Folders/files must be lowercase and only use a-z, - and _
+Folders and file names must only use a-z, - and _
 
 #### Product geometry model structure:
 ```
@@ -35,14 +35,13 @@ products/11763/rev_1.1/source_solidworks/11763.sldprt
 ```
 
 #### Product display structure:
-We can display any combination of stl or json textures
+We can display any combination of stl or json with textures
 ```
 products/{product_id}/display/modela.stl
 
 Ex:
 products/8601/display/8601a.stl
-products/8601/display/8601b.obj
-products/8601/display/8601b.mtl
+products/8601/display/8601b.json
 products/8601/display/8601b_texture.png
 ```
 
