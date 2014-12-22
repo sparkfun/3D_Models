@@ -1,1 +1,0 @@
-This is a category for Dev Tools, including Arduino and Shields.

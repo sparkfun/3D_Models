@@ -1,8 +1,6 @@
-# OS generated files #
-######################
-.DS_Store
-.DS_Store?
-.Trashes
+# Ignore certain zip files
+/products/*/*.zip
+/products/*/rev_*/*.zip
+
+# OS crap
 Thumbs.db
-ehthumbs.db
-Desktop.ini
