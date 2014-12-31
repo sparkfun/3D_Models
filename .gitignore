@@ -4,3 +4,10 @@
 
 # OS crap
 Thumbs.db
+
+#blender autosaves
+*.blend1
+*.blend2
+
+#solidworks autosaves
+~*
