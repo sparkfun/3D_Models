@@ -1,7 +1,9 @@
 3D Models for SparkFun Products!
 ----------------
 
-This is a repository of basic geometry and source CAD (if we have them) files for 3D models that appear on our website. Models are stored in real world scale.
+This is a repository of basic geometry and source CAD (if we have them) files for 3D models that appear on our website. Models are stored in real world (1x) scale. STL units are millimeters.
+
+_If you are using [eagleUp](https://eagleup.wordpress.com/) be sure to only export ```Place``` layers_
 
 ## Directory Structure
 
