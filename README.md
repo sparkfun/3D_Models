@@ -51,7 +51,9 @@ products/8601/display/8601b_texture.png
 
 _Use the io_three blender addon in the https://github.com/mrdoob/three.js repository to export textured display models for our site_
 
-_Be sure to set your scene's display device to none before export to prevent colors from being gamma corrected_
+_Be sure to set your scene's display device to none before export to prevent colors from being gamma corrected. Or use the startup file in this repo._
+
+For composite display models, commit the blender file with separate objects for easy tweaking in the future. Combine the geometry before exporting to json.
 
 #### Copper
 ```
