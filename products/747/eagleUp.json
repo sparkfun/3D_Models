@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/LMD1820x_Breakout/326cdb6b4df796bfc49588be7e020bc4b3233f09/Hardware/SparkFun_LMD1820x-Breakout-V12.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages":[]}

@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/MiniGen/4bba28f1aba59f477957dcaf511d9be977f9d09f/Hardware/MiniGen.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages":[]}
