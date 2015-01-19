@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/Vernier_Interface_Shield/v1.2/Hardware/Vernier_Interface_Shield.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"FIDUCIAL-1X2","value":"FIDUCIAL1X2"},{"name":"1X10_SMD_MALE","value":"Male"},{"name":"1X08_SMD_MALE","value":"Male"},{"name":"1X06_SMD_MALE","value":"Male"},{"name":"BTA","value":"BTA"},{"name":"BTD","value":"BTD"},{"name":"1X02_NO_SILK","value":"M021X02_NO_SILK"},{"name":"1X06","value":"Male"},{"name":"0603-RES","value":"10K"},{"name":"0603-RES","value":"20k"},{"name":"0603-RES","value":"15K"},{"name":"0603-RES","value":"330"},{"name":"TACTILE-PTH","value":"Reset"},{"name":"TACTILE-PTH","value":"D12"},{"name":"SO16","value":"74HC4052SO"},{"name":"SO08-TIGHT","value":"LMV358SOICT"}]}

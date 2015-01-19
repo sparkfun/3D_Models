@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/MPR121_Capacitive_Touch_Breakout/03f471c0cd64b331c5ed37f9410bb69bd5e502cf/Hardware/MPR121-Breakout-v13.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"QFN-20-0.4MM-V2","value":"MPR121"},{"name":"1X01","value":"ADDR"},{"name":"1X03","value":"I2C"},{"name":"1X12","value":"Electrodes"},{"name":"1X01","value":"3.3V"},{"name":"1X01","value":"GND"},{"name":"FIDUCIAL-1X2","value":"FIDUCIAL1X2"},{"name":"0603-RES","value":"75k"},{"name":"0603-RES","value":"10k"},{"name":"SJ_2S-TRACE","value":"SOLDERJUMPERTRACE"}]}

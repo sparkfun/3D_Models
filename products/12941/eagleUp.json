@@ -1,4 +1,4 @@
-{"repository":"https://raw.githubusercontent.com/sparkfun/SD-MMC_Breakout/v21/Hardware/SD_MMC%20Breakout-v20.brd",
+{"repository":"https://raw.githubusercontent.com/sparkfun/SD-MMC_Breakout/v21/Hardware/SD_MMC Breakout-v20.brd",
 "resolution":"600",
 "outline_layer":"20",
 "silk_layer":"place",
@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages":[]}
+"component_packages": [{"name":"FIDUCIAL-1X2","value":"FIDUCIAL1X2"},{"name":"1X10","value":"M10"},{"name":"SD_1:1","value":"SD_CARD_SOCKET"}]}

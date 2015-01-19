@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages":[]}
+"component_packages": [{"name":"FIDUCIAL-1X2.5","value":"FIDUCIAL1X2.5"},{"name":"0603-RES","value":"22k"},{"name":"0603-RES","value":"240"},{"name":"RPI-1031","value":"RPI-1031"}]}

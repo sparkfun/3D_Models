@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/IMU_Digital_Combo_Board/ea42199ef930084c266f158df344216c9f821b62/Hardware/IMU_Digital_Combo_Board _-_6_Degrees_of_Freedom_-_ITG3200_-_ADXL345.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"0603-CAP","value":"10nF"},{"name":"0603-CAP","value":"2.2nF"},{"name":"STAND-OFF","value":"STAND-OFF"},{"name":"FIDUCIAL-1X2","value":"FIDUCIAL1X2"},{"name":"0603-RES","value":"4.7K"},{"name":"0603-RES","value":"4.7k"},{"name":"LGA14","value":"ADXL3451:1"},{"name":"QFN-24_ITG3200_1:1","value":"ITG-32001:1"}]}

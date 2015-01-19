@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/QRE1113_Line_Sensor-Analog/7f67a892f97b8786fb3d959cf4adfa142825ca6b/Hardware/QRE1113 Line Sensor Breakout - Analog.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"STAND-OFF","value":"STAND-OFF"},{"name":"0603-RES","value":"100"},{"name":"0603-RES","value":"10K"},{"name":"QRE1113-1:1","value":"QRE11131:1"}]}

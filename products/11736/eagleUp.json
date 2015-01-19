@@ -1,4 +1,4 @@
-{"repository":"https://raw.githubusercontent.com/sparkfun/FT231X_Breakout/7b2e0abf0f44da5d730526eb4f6bf0c930819607/hardware/ft231x-breakout.brd",
+{"repository":"https://raw.github.com/sparkfun/FT231X_Breakout/7b2e0abf0f44da5d730526eb4f6bf0c930819607/hardware/ft231x-breakout.brd",
 "resolution":"600",
 "outline_layer":"20",
 "silk_layer":"place",
@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages":[]}
+"component_packages": [{"name":"EIA3216","value":"10uF"},{"name":"0402-CAP","value":"0.1uF"},{"name":"0402-CAP","value":"47pF"},{"name":"MICRO-FIDUCIAL","value":"FIDUCIALUFIDUCIAL"},{"name":"LED-0603","value":"RED"},{"name":"LED-0603","value":"YELLOW"},{"name":"SOT323","value":"2N7002PW"},{"name":"0402-RES","value":"27"},{"name":"0402-RES","value":"1k"},{"name":"0402-RES","value":"10k"},{"name":"SJ_2S-TRACE","value":"TXLED"},{"name":"SJ_2S-TRACE","value":"RXLED"},{"name":"SSOP20_L","value":"FT231XS"},{"name":"USB-MICROB","value":"USB-MICROB"}]}

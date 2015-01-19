@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages":[]}
+"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"MICRO-FIDUCIAL","value":"FIDUCIALUFIDUCIAL"},{"name":"1X02_LONGPADS","value":"M02PTH3"},{"name":"SCREWTERMINAL-3.5MM-2","value":"M023.5MM"},{"name":"2X4","value":"M04X2"},{"name":"SJ_3_PASTE1&2","value":"JUMPER-31-2"},{"name":"0603-RES","value":"1K"},{"name":"0805","value":"0.22"},{"name":"0603-RES","value":"10K"},{"name":"STAND-OFF","value":"STAND-OFF"},{"name":"MSOP-10-GNDPAD","value":"DRV8830"}]}

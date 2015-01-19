@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/LilyPad_XBee/HW_1.0/Hardware/LilyPad_XBee.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": []}

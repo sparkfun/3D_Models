@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/AD8232_Heart_Rate_Monitor/309675f89a71f6ef9a3452e473f251d62e17dbd1/Hardware/AD8232_Heart_Rate_Monitor.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0603-CAP","value":"1.5nF"},{"name":"0603-CAP","value":"1nF"},{"name":"0603-CAP","value":"10nF"},{"name":"0805","value":"0.33uF"},{"name":"0603-CAP","value":"0.1uF"},{"name":"0603-CAP","value":"0.1uf"},{"name":"LED-0603","value":"RED"},{"name":"FIDUCIAL-1X2","value":"FIDUCIAL1X2"},{"name":"0603-RES","value":"10M"},{"name":"0603-RES","value":"180k"},{"name":"0603-RES","value":"360k"},{"name":"0603-RES","value":"1M"},{"name":"0603-RES","value":"100k"},{"name":"0603-RES","value":"1.4M"},{"name":"0603-RES","value":"10K"},{"name":"0603-RES","value":"1k"},{"name":"0603","value":"0"},{"name":"SJ_2S-TRACE","value":"LED DISABLE"},{"name":"STAND-OFF","value":"STAND-OFF"},{"name":"LFCSP_20","value":"AD8232"}]}

@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages":[]}
+"component_packages": [{"name":"CPOL-RADIAL-10UF-25V","value":"10uF"},{"name":"CPOL-RADIAL-100UF-25V","value":"100uF"},{"name":"RCA_LOCK","value":"POWER_JACKRCA_LOCK"},{"name":"LED5MM","value":"Red"},{"name":"TO-92","value":"TRANSISTOR_NPN_2PTH"},{"name":"AXIAL-0.3","value":"120"},{"name":"AXIAL-0.3","value":"2.2K"},{"name":"AXIAL-0.3","value":"4.7K"},{"name":"AXIAL-0.3","value":"220K"},{"name":"SWITCH-SPDT_LOCK.007S","value":"On/Off"},{"name":"STAND-OFF","value":"STAND-OFF"}]}

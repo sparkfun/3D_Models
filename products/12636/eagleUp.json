@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/LSM9DS0_Breakout/48c27a1147a4669206f6c7f914724b7379bb8051/Hardware/lsm9ds0-breakout.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0603-CAP","value":"4.7uF"},{"name":"0603-CAP","value":"0.22uF"},{"name":"EIA3216","value":"10uF"},{"name":"0603-CAP","value":"1.0uF"},{"name":"MICRO-FIDUCIAL","value":"FIDUCIALUFIDUCIAL"},{"name":"1X13","value":"M13"},{"name":"0603-RES","value":"10k"},{"name":"STAND-OFF","value":"STAND-OFF"},{"name":"LGA-24","value":"LSM9DS0"}]}

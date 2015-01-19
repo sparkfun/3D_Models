@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/DangerShield/df57294493beed14e043b4a15eb1c5230e0c466c/Hardware/Danger_Shield-v17.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"CAP-PTH-SMALL2","value":"0.1uF"},{"name":"LED5MM","value":"Red"},{"name":"LED5MM","value":"Yellow"},{"name":"AXIAL-0.3","value":"330"},{"name":"AXIAL-0.3","value":"1M"},{"name":"PHOTOCELL","value":"CdS"},{"name":"SLIDER","value":"Slider3"},{"name":"SLIDER","value":"Slider2"},{"name":"SLIDER","value":"Slider1"},{"name":"AXIAL-0.3","value":"10K"},{"name":"TACTILE-PTH-12MM","value":"Button1"},{"name":"TACTILE-PTH-12MM","value":"Button2"},{"name":"TACTILE-PTH-12MM","value":"Button3"},{"name":"TACTILE-PTH","value":"Reset"},{"name":"BUZZER-12MM","value":"BUZZER"},{"name":"DUEMILANOVE_VIAS","value":"ARDUINO_SHIELD"},{"name":"DIL16","value":"74LS595N"},{"name":"TO-92","value":"TMP36"},{"name":"7-SEGMENT-1PTH","value":"7-SEGMENT-DISPLAY-1-RED"}]}

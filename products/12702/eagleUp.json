@@ -1,4 +1,4 @@
-{"repository":"https://raw.githubusercontent.com/sparkfun/CC3000_WiFi_Breakout/c6b9270994e7825c20ec4cb9a9eab66c9ada20cd/Hardware/CC3000_WiFi_Breakout.brd",
+{"repository":"https://raw.github.com/sparkfun/Solderable_Breadboard_Mini/de9c4c1299e8130a71acfdd53d6c335434d76b6e/hardware/solderable_breadboard_mini.brd",
 "resolution":"600",
 "outline_layer":"20",
 "silk_layer":"place",
@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages":[]}
+"component_packages": [{"name":"1X05_NO_SILK","value":" "},{"name":"SFE_LOGO_NAME_.1","value":"SFE_LOGO_NAME.1_INCH"}]}

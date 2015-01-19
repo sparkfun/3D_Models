@@ -1,1 +1,14 @@
-{"repository":"http://raw.github.com/sparkfun/Logic_Level_Bidirectional/ff72f7271a2fdae38c49dec356c462ff4ec75784/Hardware/Logic_Level_Bidirectional.brd","resolution":"600","outline_layer":"20","silk_layer":"place","no_parts":0,"no_images":0,"skip_vias":0,"thickness":1.6,"board_color":"0x98041C","trace_color":"0xE2012D","plating":"silver","silk":"ivory","component_packages": [{"name":"MICRO-FIDUCIAL","value":"FIDUCIALUFIDUCIAL"},{"name":"SFE_LOGO_FLAME_.1","value":"SFE_LOGO_FLAME.1_INCH"},{"name":"OSHW-LOGO-S","value":"OSHW-LOGOS"},{"name":"SOT23-3","value":"BSS138"},{"name":"0603-RES","value":"10K"}]}
+{
+	"repository":"http://raw.github.com/sparkfun/Logic_Level_Bidirectional/ff72f7271a2fdae38c49dec356c462ff4ec75784/Hardware/Logic_Level_Bidirectional.brd",
+	"resolution":"600",
+	"outline_layer":"20",
+	"silk_layer":"place",
+	"no_parts":0,
+	"no_images":0,
+	"skip_vias":0,
+	"thickness":1.6,
+	"board_color":"0x98041C",
+	"trace_color":"0xE2012D",
+	"plating":"silver",
+	"silk":"ivory",
+	"component_packages": [{"name":"MICRO-FIDUCIAL","value":"FIDUCIALUFIDUCIAL"},{"name":"SOT23-3","value":"BSS138"},{"name":"0603-RES","value":"10K"}]}

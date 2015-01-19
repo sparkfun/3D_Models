@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages":[]}
+"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"RJ45-8","value":"RJ45-8PTH"},{"name":"FIDUCIAL-1X2","value":"FIDUCIAL1X2"},{"name":"STAND-OFF","value":"STAND-OFF"},{"name":"LED-0603","value":"Green"},{"name":"0603-RES","value":"330"},{"name":"0603-RES","value":"220"},{"name":"SO08","value":"RS485SOIC"}]}
