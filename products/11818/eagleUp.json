@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/GPS_Breakout/26e074224c0eb34372a71d5a7ba5406a50192661/Hardware/GPS_Breakout.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"MICRO-FIDUCIAL","value":"FIDUCIALUFIDUCIAL"},{"name":"STAND-OFF","value":"STAND-OFF"},{"name":"JST-6-SMD-VERT-1.0MM","value":"JST_VERTICAL"}]}

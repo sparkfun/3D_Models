@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/TRS_Jack_Breakout/1c691af68ce0c1fcb8840d79d7744771bca0a00e/Hardware/TRS_Jack_Breakout.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"AUDIO-JACK-.25-INCH-HORIZ-PTH","value":"AUDIO-JACK4-.25-HORIZ-TRS"},{"name":"1X01NS","value":"M01SMDNS"},{"name":"1X06_NO_SILK","value":"HDR"},{"name":"STAND-OFF","value":"STAND-OFF"}]}

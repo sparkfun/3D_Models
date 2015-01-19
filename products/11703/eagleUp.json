@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/UDB5/d608d8198a286dc2f75441e9372f4db24e4f8683/hardware/UDB5.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0402-CAP","value":"1uF"},{"name":"0402-CAP","value":"2.2nF"},{"name":"0402-CAP","value":"0.1uF"},{"name":"EIA3216","value":"10uF"},{"name":"0402-CAP","value":"22nF"},{"name":"EN_J2","value":"0.2F/3.3V"},{"name":"1X03","value":"S"},{"name":"1X02","value":"EXT_Reset"},{"name":"1X06","value":"prog"},{"name":"1X02","value":"SVCC"},{"name":"1X07","value":"ST"},{"name":"1X04","value":"SG"},{"name":"1X03","value":"extra"},{"name":"1X06","value":"SPI1"},{"name":"1X06","value":"GND"},{"name":"1X02","value":"INT"},{"name":"1X04","value":"I2C"},{"name":"1X05","value":"ACOM1"},{"name":"1X02","value":"power"},{"name":"1X04","value":"extra"},{"name":"FIDUCIAL-1X2.5","value":"FIDUCIAL1X2.5"},{"name":"1X03","value":"RA"},{"name":"0402-RES","value":"20k"},{"name":"0402-RES","value":"330"},{"name":"0402-RES","value":"10k"},{"name":"0402-RES","value":"4.7k"},{"name":"0402-RES","value":"12.1k"},{"name":"0402-RES","value":"470"},{"name":"0402-RES","value":"1k"},{"name":"TACTILE_SWITCH_SMD","value":"SWITCH-MOMENTARY-2SMD"},{"name":"SJ_2S","value":"SOLDERJUMPERNC"},{"name":"LED-0603","value":"red"},{"name":"LED-0603","value":"green"},{"name":"LED-0603","value":"yellow"},{"name":"LED-0603","value":"blue"},{"name":"PAD.03X.03","value":"TEST-POINT3"},{"name":"STAND-OFF","value":"STAND-OFF"},{"name":"TQFP-100-12X12MM","value":"DSPIC33FJ256GP710_"},{"name":"SOT23-5","value":"V_REG_LDOSMD"},{"name":"DPAK-5","value":"V_REG_NCP50X"},{"name":"EM406","value":"D2523T_"},{"name":"SO08","value":"EEPROM-I2CSMD"},{"name":"EM406","value":"EM406"},{"name":"QFN-24-TESTING","value":"MPU-6000QFN-24"},{"name":"RESONATOR-SMD","value":"RESONATORSMD"}]}

@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/XBee_Explorer_Serial/v1.2/Hardware/SparkFun-XBee-Serial-Explorer-v12.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"EIA3216","value":"10uF"},{"name":"C0402","value":"0.1uF"},{"name":"SMA-DIODE","value":"MBRA140"},{"name":"PTC-1206","value":"PTCSMD"},{"name":"POWER_JACK_SMD","value":"POWER_JACKSMD"},{"name":"LED-1206","value":"Red"},{"name":"LED-1206","value":"Yellow"},{"name":"LED-1206","value":"Green"},{"name":"SOT23-3","value":"MBT2222"},{"name":"C0402","value":"1K"},{"name":"C0402","value":"10K"},{"name":"C0402","value":"390"},{"name":"C0402","value":"240"},{"name":"AYZ0202","value":"Power"},{"name":"TACTILE_SWITCH_SMD","value":"Reset"},{"name":"STAND-OFF","value":"STAND-OFF"},{"name":"FIDUCIAL-1X2","value":"FIDUCIAL1X2"},{"name":"SO016","value":"MAX232SOIC16"},{"name":"XBEE-SMD","value":"XBEE-1B3"},{"name":"SOT223","value":"LM317"},{"name":"DB9","value":"RS232"}]}

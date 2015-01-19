@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/ADXL337_Breakout/f14fa1165b967de6417d2c7c2f9207ad9aed57da/hardware/ADXL337 Breakout.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0603-CAP","value":"10nF"},{"name":"0603-CAP","value":"0.1uF"},{"name":"FIDUCIAL-1X2","value":"FIDUCIAL1X2"},{"name":"STAND-OFF","value":"STAND-OFF"},{"name":"LFCSP_LQ-16","value":"ADXL337"}]}

@@ -1,0 +1,15 @@
+{
+	"repository":"http://raw.github.com/sparkfun/Mega_Pro/df8a860eec1b2b186434cfeb8d7f7f91ce85d9ac/Hardware/mega_pro-v13.brd",
+	"resolution":"600",
+	"outline_layer":"20",
+	"silk_layer":"place",
+	"no_parts":0,
+	"no_images":0,
+	"skip_vias":0,
+	"thickness":1.6,
+	"board_color":"0x98041C",
+	"trace_color":"0xE2012D",
+	"plating":"silver",
+	"silk":"ivory",
+	"component_packages": [{"name":"0402-CAP","value":"0.1uF"},{"name":"EIA3216","value":"10uF"},{"name":"PTC-1206","value":"PTCSMD"},{"name":"2X3","value":"AVR_SPI_PRG_6PTH"},{"name":"POWER_JACK_PTH","value":"POWER_JACKPTH"},{"name":"1X06-SMD","value":"FTDI"},{"name":"JST-2-SMD","value":"Batt"},{"name":"1X02","value":"External"},{"name":"FIDUCIAL-1X2.5","value":"FIDUCIAL1X2.5"},{"name":"LED-0603","value":"green"},{"name":"LED-0603","value":"yellow"},{"name":"0402-RES","value":"10k"},{"name":"0402-RES","value":"470"},{"name":"TACTILE_SWITCH_SMD","value":"SWITCH-MOMENTARY-2SMD"},{"name":"SJ_2S","value":"SOLDERJUMPERNC"},{"name":"ARDUINO_MEGA-PRO","value":"ARDUINO-MEGAPRO"},{"name":"TQFP100","value":"ATMEGA2560AU"},{"name":"SOT23-5","value":"V_REG_LDOSMD"},{"name":"RESONATOR-SMD","value":"RESONATORSMD"}]
+}

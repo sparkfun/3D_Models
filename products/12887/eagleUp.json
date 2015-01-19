@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/Electric_Imp_Shield/V_1.2/Hardware/electric-imp-shield.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0603-CAP","value":"1.0uF"},{"name":"EIA3216","value":"10uF"},{"name":"0603-CAP","value":"0.1uF"},{"name":"FIDUCIAL-1X2","value":"FIDUCIAL1X2"},{"name":"1X10_NO_SILK","value":"M10SIP_NS"},{"name":"1X09_NO_SILK","value":"M09NO_SILK"},{"name":"LED-0603","value":"RED"},{"name":"LED-0603","value":"YELLOW"},{"name":"LED-0603","value":"GREEN"},{"name":"SOT23-3","value":"BSS138"},{"name":"0603-RES","value":"100k"},{"name":"0603-RES","value":"10k"},{"name":"0603-RES","value":"330"},{"name":"SJ_2S-TRACE","value":"cd"},{"name":"SJ_2S-TRACE","value":"8"},{"name":"SJ_2S-TRACE","value":"2"},{"name":"SD_1:1","value":"ELECTRIC_IMP"},{"name":"DUEMILANOVE_SHIELD_NOHOLES_NOLABELS","value":"ARDUINO_SHIELD"},{"name":"SOT23-5","value":"MIC5219-3.3"},{"name":"SOT23-3","value":"ATSHA204-TSU"}]}

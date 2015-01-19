@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/CC3000_WiFi_Breakout/c6b9270994e7825c20ec4cb9a9eab66c9ada20cd/Hardware/CC3000_WiFi_Breakout.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"ANTENNA-CHIP_2500AT44M0400","value":"ANTENNA22500AT44M0400"},{"name":"0805","value":"10uF"},{"name":"0603-CAP","value":"0.1uF"},{"name":"0805","value":"1uF"},{"name":"0603-CAP","value":"10pF"},{"name":"0603-CAP","value":"2.2pF"},{"name":"LED-0603","value":"GREEN"},{"name":"FIDUCIAL-1X2","value":"FIDUCIAL1X2"},{"name":"U.FL","value":"U.FL"},{"name":"1X03","value":"Debug"},{"name":"1X09","value":"M09"},{"name":"0603","value":"2.2nH"},{"name":"0603-RES","value":"240"},{"name":"0603-RES","value":"390"},{"name":"0603-RES","value":"10k"},{"name":"SJ_3_PASTE1&2","value":"Mode"},{"name":"STAND-OFF","value":"STAND-OFF"},{"name":"SOT223","value":"LM1117"},{"name":"SO016","value":"74HC4050"},{"name":"QFN-46_CC3000","value":"CC3000"}]}

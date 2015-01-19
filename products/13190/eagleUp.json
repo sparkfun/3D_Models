@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/Serial_7_Segment_Shield/ed313bc0a88e3b244281b9f12d1c544384c98540/hardware/Serial-7-Segment-Shield.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"TQFP32-08","value":"ATMEGA328P-AU"},{"name":"0603-CAP","value":"0.1uF"},{"name":"2X3","value":"AVR_SPI_PRG_6PTH"},{"name":"SJ_2S","value":"NC"},{"name":"MICRO-FIDUCIAL","value":"FIDUCIALUFIDUCIAL"},{"name":"0603-RES","value":"10k"},{"name":"0603-RES","value":"100"},{"name":"0603-RES","value":"1k"},{"name":"7-SEGMENT-4DIGIT-COUNTER","value":"7-SEGMENT-4DIGIT-COUNTERPTH"},{"name":"DUEMILANOVE_SHIELD","value":"ARDUINO_SHIELDLABEL"}]}

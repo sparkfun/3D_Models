@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/MiniGen/4bba28f1aba59f477957dcaf511d9be977f9d09f/Hardware/MiniGen.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"EIA3528","value":"10uF"},{"name":"0603-CAP","value":"0.1uF"},{"name":"0603-CAP","value":"10uF, 6.3V"},{"name":"0603-CAP","value":"18pF"},{"name":"0603-CAP","value":"10nF"},{"name":"FIDUCIAL-1X2","value":"FIDUCIAL1X2"},{"name":"1X12","value":"M12PTH"},{"name":"1X02","value":"M02PTH"},{"name":"LED-0603","value":"RED"},{"name":"0603-RES","value":"330"},{"name":"0603-RES","value":"1.8K"},{"name":"0603-RES","value":"2.55K"},{"name":"0603-RES","value":"10K"},{"name":"0603-RES","value":"787"},{"name":"CRYSTAL-SMD-7X5","value":"16MHz"},{"name":"SOT23-5","value":"3.3V"},{"name":"AD9837","value":"AD9837"}]}
