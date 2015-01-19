@@ -11,3 +11,6 @@ Thumbs.db
 
 #solidworks autosaves
 ~*
+
+#sketchup backup stuff
+*.skb
