@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/RedBot_Accelerometer/v12/Hardware/RedBot Accelerometer.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"0603-CAP","value":"4.7uF"},{"name":"MICRO-FIDUCIAL","value":"FIDUCIALUFIDUCIAL"},{"name":"0603-RES","value":"10k"},{"name":"0603-RES","value":"1k"},{"name":"0603-RES","value":"200k"},{"name":"MMA8452Q-1:1","value":"MMA8452QMMA8452Q-1:1"},{"name":"SOT23-5","value":"MIC5205-3.3V"},{"name":"PCA9306DC-1:1","value":"PCA9306"}]}

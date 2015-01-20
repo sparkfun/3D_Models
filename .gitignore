@@ -1,12 +1,21 @@
-# OS generated files #
-######################
-.DS_Store
-.DS_Store?
-.Trashes
+# Ignore certain zip files
+/products/*/*.zip
+/products/*/rev_*/*.zip
+
+# OS crap
 Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-# FreeCAD backup files #
-######################
+# FreeCAD backup files
 .fcstd1
+
+# Blender autosaves
+*.blend1
+*.blend2
+
+# SolidWorks autosaves
+~*
+
+# Sketchup backup stuff
+*.skb

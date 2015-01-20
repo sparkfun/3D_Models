@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>SparkFun Display Model Preview</title>
+<style>
+html{height:100%}
+body{height:100%;margin:0;background-color:black;overflow:hidden;}
+#v{height:100%;}
+canvas{height: 100%;}
+#v div{display:none;}
+</style>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="//sparkfun.com/js/sfe.min.js"></script>
+<script src="//sparkfun.com/js/three/three-built.js"></script>
+<script>$(function(){$('#v').DDD({managed_height: false, aspect_ratio:1});});</script>
+</head>
+<body><div id="v" data-models='[{{models_paths}}]'></div></body>
+</html>

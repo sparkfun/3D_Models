@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/MPL3115A2_Breakout/78fa328f96443abeb097b0fc1c471d48cb3deae9/hardware/MPL3115A2_breakout.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0402-CAP","value":"0.1uF"},{"name":"EIA3216","value":"10uF"},{"name":"0402-CAP","value":"1uF"},{"name":"STAND-OFF","value":"STAND-OFF"},{"name":"MICRO-FIDUCIAL","value":"FIDUCIALUFIDUCIAL"},{"name":"0402-RES","value":"1k"},{"name":"LGA8","value":"MPL3115A2LGA8"}]}

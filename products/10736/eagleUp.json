@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/9DOF_Razor_IMU/3c21910f2c395bd1ecf153965e029504b4af2309/Hardware/9DOF-Razor-v23.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"0603-CAP","value":"2.2nF"},{"name":"0603-CAP","value":"10nF"},{"name":"0603-CAP","value":"0.22uF"},{"name":"0603-CAP","value":"4.7uF"},{"name":"EIA3216","value":"10uF"},{"name":"LED-0603","value":"Green"},{"name":"2X3","value":"AVR_SPI_PRG_6PTH"},{"name":"JST-2-SMD","value":"JST_Horizontal"},{"name":"STAND-OFF","value":"STAND-OFF"},{"name":"1X06","value":"FTDI Basic"},{"name":"1X02","value":"JST_Horizontal"},{"name":"FIDUCIAL-1X2.5","value":"FIDUCIAL1X2.5"},{"name":"LED-0603","value":"Red"},{"name":"RESONATOR-SMD","value":"8MHz"},{"name":"0603-RES","value":"4.7k"},{"name":"0603-RES","value":"4.7K"},{"name":"0603-RES","value":"10K"},{"name":"0603-RES","value":"330"},{"name":"TACTILE_SWITCH_SMD","value":"Reset"},{"name":"AYZ0202","value":"Power"},{"name":"16LPCC","value":"HMC5883LSMD"},{"name":"QFN-24_ITG3200_1:1","value":"ITG-32001:1"},{"name":"LGA14","value":"ADXL3451:1"},{"name":"SOT23-5","value":"3.3V"},{"name":"TQFP32-08","value":"ATMEGA328"}]}

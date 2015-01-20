@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/BLE_Mate2/v10/Hardware/SparkFun_BLEMate2.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0603-CAP","value":"10nF"},{"name":"0603-CAP","value":"2.2uF"},{"name":"0603-CAP","value":"1.0uF"},{"name":"FIDUCIAL-1X2","value":"FIDUCIAL1X2"},{"name":"PAD-JUMPER-3-2OF3_NC_BY_PASTE_YES_SILK_FULL_BOX","value":"JUMPER-PAD-3-2OF3_NC_BY_PASTE"},{"name":"FTDI_BASIC","value":"FTDI_BASICPTH"},{"name":"1X09","value":"M09"},{"name":"LED-0603","value":"BLUE"},{"name":"LED-0603","value":"RED"},{"name":"PAD-JUMPER-3-NC_BY_PASTE_YES_SILK_FULL_BOX","value":"JUMPER-PAD-3-NC_BY_PASTE"},{"name":"SFE_LOGO_NAME_.1","value":"SFE_LOGO_NAME.1_INCH"},{"name":"SOT23","value":"BSS138"},{"name":"0603-RES","value":"1K"},{"name":"0603-RES","value":"100k"},{"name":"0603-RES","value":"10K"},{"name":"0603-RES","value":"16.2k"},{"name":"0603-RES","value":"26.7k"},{"name":"PAD-JUMPER-2-NC_BY_PASTE_YES_SILK","value":"JUMPER-PAD-2-NC_BY_PASTE"},{"name":"SOT23-5","value":"AP2202-ADJ"}]}

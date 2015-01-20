@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/SOIC28-DIP_Adapter/10551d93fd8df43176fea67b3461998400cf0689/Hardware/SparkFun_SOIC28-DIP-Adapter-v10.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"1X14","value":"M14"},{"name":"SO-28W","value":"PIC18F2455SMD"}]}

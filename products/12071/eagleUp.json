@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/CC3000_WiFi_Shield/59a530fbfed9989e41d6febbc20d4d1115bbdf3e/Hardware/CC3000_WiFi_Shield.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"ANTENNA-CHIP_2500AT44M0400","value":"ANTENNA22500AT44M0400"},{"name":"0805","value":"10uF"},{"name":"0603-CAP","value":"0.1uF"},{"name":"0805","value":"1uF"},{"name":"0603-CAP","value":"10pF"},{"name":"0603-CAP","value":"2.2pF"},{"name":"LED-0603","value":"GREEN"},{"name":"FIDUCIAL-1X2","value":"FIDUCIAL1X2"},{"name":"U.FL","value":"U.FL"},{"name":"1X03","value":"Debug"},{"name":"1X10_NO_SILK","value":"M10NO_SILK"},{"name":"2X3","value":"AVR_SPI_PRG_6PTH"},{"name":"0603","value":"2.2nH"},{"name":"0603-RES","value":"240"},{"name":"0603-RES","value":"390"},{"name":"0603-RES","value":"10k"},{"name":"TACTILE_SWITCH_SMD","value":"RESET"},{"name":"SJ_3_PASTE1&2","value":"Mode"},{"name":"STAND-OFF","value":"STAND-OFF"},{"name":"SOT223","value":"LM1117"},{"name":"UNO_R3_SHIELD_NOLABELS","value":"ARDUINO_R3_SHIELDNOLABELS"},{"name":"SO016","value":"74HC4050"},{"name":"MICRO-SD-SOCKET-PP","value":"USD-SOCKETNEW"},{"name":"QFN-46_CC3000","value":"CC3000"},{"name":"SOT23-5","value":"74AHC1G125"}]}
