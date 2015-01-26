@@ -4,13 +4,18 @@
 
 # OS crap
 Thumbs.db
+ehthumbs.db
+Desktop.ini
 
-#blender autosaves
+# FreeCAD backup files
+.fcstd1
+
+# Blender autosaves
 *.blend1
 *.blend2
 
-#solidworks autosaves
+# SolidWorks autosaves
 ~*
 
-#sketchup backup stuff
+# Sketchup backup stuff
 *.skb
