@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"EIA3216","value":"10uF"},{"name":"EIA3528","value":"68uF"},{"name":"SMA-DIODE","value":"MBRA140"},{"name":"FIDUCIAL-1X2","value":"FIDUCIAL1X2"},{"name":"CR54","value":"47uH"},{"name":"SOT23-5","value":"NCP1402"}]}
+"component_packages": [{"name":"EIA3216","value":"10uF"},{"name":"EIA3528","value":"68uF"},{"name":"SMA-DIODE","value":"MBRA140"},{"name":"CR54","value":"47uH"},{"name":"SOT23-5","value":"NCP1402"}]}

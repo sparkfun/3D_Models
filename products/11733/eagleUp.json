@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"0402-CAP","value":".1uF"},{"name":"MICRO-FIDUCIAL","value":"FIDUCIALUFIDUCIAL"},{"name":"0402-RES","value":"10k"},{"name":"SO16","value":"74HC165D"}]}
+"component_packages": [{"name":"0402-CAP","value":".1uF"},{"name":"0402-RES","value":"10k"},{"name":"SO16","value":"74HC165D"}]}

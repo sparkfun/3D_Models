@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"AUDIO-JACK-3.5MM-SMD","value":"AUDIO-JACK2SMD"},{"name":"0402-CAP","value":"4.7nF"},{"name":"MICRO-FIDUCIAL","value":"FIDUCIALUFIDUCIAL"},{"name":"0402-RES","value":"3.3k"}]}
+"component_packages": [{"name":"AUDIO-JACK-3.5MM-SMD","value":"AUDIO-JACK2SMD"},{"name":"0402-CAP","value":"4.7nF"},{"name":"0402-RES","value":"3.3k"}]}

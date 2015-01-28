@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"1X29_NO_SILK","value":"M29NO_SILK"},{"name":"1X01NS","value":"M01SMDNS"},{"name":"SFE-LOGO-FLAME-COPPER","value":"LOGO-SFECP"},{"name":"STANDOFF-ELECTRICAL","value":"STANDOFF_ELECTRICAL"}]}
+"component_packages": [{"name":"1X29_NO_SILK","value":"M29NO_SILK"},{"name":"1X01NS","value":"M01SMDNS"}]}

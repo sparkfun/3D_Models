@@ -11,4 +11,4 @@
 	"trace_color":"0xE2012D",
 	"plating":"silver",
 	"silk":"ivory",
-	"component_packages": [{"name":"MICRO-FIDUCIAL","value":"FIDUCIALUFIDUCIAL"},{"name":"SOT23-3","value":"BSS138"},{"name":"0603-RES","value":"10K"}]}
+	"component_packages": [{"name":"SOT23-3","value":"BSS138"},{"name":"0603-RES","value":"10K"}]}

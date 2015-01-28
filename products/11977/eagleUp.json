@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"0603-CAP","value":"2.2nF"},{"name":"0603-CAP","value":"0.1uF"},{"name":"0603-CAP","value":"10nF"},{"name":"MICRO-FIDUCIAL","value":"FIDUCIALUFIDUCIAL"},{"name":"0603-RES","value":"10K"},{"name":"QFN-24_ITG3200_1:1","value":"ITG-32001:1"}]}
+"component_packages": [{"name":"0603-CAP","value":"2.2nF"},{"name":"0603-CAP","value":"0.1uF"},{"name":"0603-CAP","value":"10nF"},{"name":"0603-RES","value":"10K"},{"name":"QFN-24_ITG3200_1:1","value":"ITG-32001:1"}]}

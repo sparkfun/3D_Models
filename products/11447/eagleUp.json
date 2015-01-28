@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"0603-CAP","value":".1uF"},{"name":"0603-CAP","value":"1uF"},{"name":"SOD-523","value":"RB751"},{"name":"FIDUCIAL-1X2","value":"FIDUCIAL1X2"},{"name":"2X3","value":"PROG_HDR"},{"name":"FTDI_DEVICE_SIDE","value":"FTDI_DEVICE"},{"name":"JST-2-SMD","value":"M02-JST-2MM-SMT"},{"name":"1X02","value":"M02PTH"},{"name":"0603-RES","value":"1M"},{"name":"0603-RES","value":"10k"},{"name":"ADXL362-1:1","value":"ADXL362"},{"name":"SOT23-5","value":"ADP160-3.3"}]}
+"component_packages": [{"name":"0603-CAP","value":".1uF"},{"name":"0603-CAP","value":"1uF"},{"name":"SOD-523","value":"RB751"},{"name":"FTDI_DEVICE_SIDE","value":"FTDI_DEVICE"},{"name":"JST-2-SMD","value":"M02-JST-2MM-SMT"},{"name":"0603-RES","value":"1M"},{"name":"0603-RES","value":"10k"},{"name":"ADXL362-1:1","value":"ADXL362"},{"name":"SOT23-5","value":"ADP160-3.3"}]}

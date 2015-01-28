@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"MICRO-FIDUCIAL","value":"FIDUCIALUFIDUCIAL"},{"name":"STAND-OFF","value":"STAND-OFF"},{"name":"1X03","value":"INPUT"},{"name":"1X03","value":"OUTPUT"},{"name":"LED-TRICOLOR-5050-IC","value":"LED-TRICOLOR-5050"}]}
+"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"LED-TRICOLOR-5050-IC","value":"LED-TRICOLOR-5050"}]}

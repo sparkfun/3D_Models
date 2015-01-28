@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"C0402","value":"22pF"},{"name":"C0402","value":"33nF"},{"name":"C0402","value":"2.2nF"},{"name":"C0402","value":"1.0pF"},{"name":"C0402","value":"10nF"},{"name":"C0402","value":"1nF"},{"name":"MICRO-FIDUCIAL","value":"FIDUCIALUFIDUCIAL"},{"name":"C0402","value":"3.3nH"},{"name":"C0402","value":"33nH"},{"name":"CRYSTAL-SMD-5X3","value":"16MHz"},{"name":"C0402","value":"1M"},{"name":"C0402","value":"22K"},{"name":"MLP-24","value":"NRF2401A"},{"name":"ANTENNA-CHIP5","value":"ANTENNA2SMD5"}]}
+"component_packages": [{"name":"C0402","value":"22pF"},{"name":"C0402","value":"33nF"},{"name":"C0402","value":"2.2nF"},{"name":"C0402","value":"1.0pF"},{"name":"C0402","value":"10nF"},{"name":"C0402","value":"1nF"},{"name":"C0402","value":"3.3nH"},{"name":"C0402","value":"33nH"},{"name":"CRYSTAL-SMD-5X3","value":"16MHz"},{"name":"C0402","value":"1M"},{"name":"C0402","value":"22K"},{"name":"MLP-24","value":"NRF2401A"},{"name":"ANTENNA-CHIP5","value":"ANTENNA2SMD5"}]}

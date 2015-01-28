@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"MICRO-FIDUCIAL","value":"FIDUCIALUFIDUCIAL"},{"name":"0603-RES","value":"10K"},{"name":"STANDOFF-ELECTRICAL","value":"STANDOFF_ELECTRICAL"}]}
+"component_packages": [{"name":"0603-RES","value":"10K"}]}

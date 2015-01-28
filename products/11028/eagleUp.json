@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"0603-CAP","value":"2.2nF"},{"name":"0603-CAP","value":"10nF"},{"name":"MICRO-FIDUCIAL","value":"FIDUCIALUFIDUCIAL"},{"name":"STAND-OFF-TIGHT","value":"STAND-OFFTIGHT"},{"name":"1X10","value":"M10"},{"name":"0603-RES","value":"10k"},{"name":"QFN-24-4MM2","value":"MPU-6050-1"}]}
+"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"0603-CAP","value":"2.2nF"},{"name":"0603-CAP","value":"10nF"},{"name":"STAND-OFF-TIGHT","value":"STAND-OFFTIGHT"},{"name":"1X10","value":"M10"},{"name":"0603-RES","value":"10k"},{"name":"QFN-24-4MM2","value":"MPU-6050-1"}]}

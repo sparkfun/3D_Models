@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"LED-0603","value":"GREEN"},{"name":"LED-0603","value":"RED"},{"name":"1X20","value":"M20"},{"name":"0603-RES","value":"330"},{"name":"STAND-OFF","value":"STAND-OFF"},{"name":"RN-52","value":"BLUETOOTH-RN-52"}]}
+"component_packages": [{"name":"LED-0603","value":"GREEN"},{"name":"LED-0603","value":"RED"},{"name":"1X20","value":"M20"},{"name":"0603-RES","value":"330"},{"name":"RN-52","value":"BLUETOOTH-RN-52"}]}

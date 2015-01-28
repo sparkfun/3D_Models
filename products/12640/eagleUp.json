@@ -11,5 +11,5 @@
 	"trace_color":   "0xE2012D",
 	"plating":       "silver",
 	"silk":          "ivory",
-	"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"0603-CAP","value":"22pF"},{"name":"0603-CAP","value":"1uF"},{"name":"EIA3216","value":"10uF"},{"name":"LED-0603","value":"Yellow"},{"name":"LED-0603","value":"Green"},{"name":"PTC-1206","value":"500mA"},{"name":"MICRO-FIDUCIAL","value":"FIDUCIALUFIDUCIAL"},{"name":"LED-0603","value":"Red"},{"name":"0603-RES","value":"10K"},{"name":"0603-RES","value":"330"},{"name":"0603-RES","value":"22"},{"name":"0603-RES","value":"1K"},{"name":"SJ_2S","value":"Closed for 5V Board"},{"name":"SOT23-5","value":"MIC5219"},{"name":"QFN-44-NOPAD_1:1-OUTFAKES","value":"ATMEGA32U4"},{"name":"CRYSTAL-SMD-5X3","value":"16MHz"}]
+	"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"0603-CAP","value":"22pF"},{"name":"0603-CAP","value":"1uF"},{"name":"EIA3216","value":"10uF"},{"name":"LED-0603","value":"Yellow"},{"name":"LED-0603","value":"Green"},{"name":"PTC-1206","value":"500mA"},{"name":"LED-0603","value":"Red"},{"name":"0603-RES","value":"10K"},{"name":"0603-RES","value":"330"},{"name":"0603-RES","value":"22"},{"name":"0603-RES","value":"1K"},{"name":"SOT23-5","value":"MIC5219"},{"name":"QFN-44-NOPAD_1:1-OUTFAKES","value":"ATMEGA32U4"},{"name":"CRYSTAL-SMD-5X3","value":"16MHz"}]
 }

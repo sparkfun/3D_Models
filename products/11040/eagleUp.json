@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"SO16","value":"74LS595D"},{"name":"STAND-OFF","value":"STAND-OFF"},{"name":"FIDUCIAL-1X2.5","value":"FIDUCIAL1X2.5"},{"name":"LED_RING","value":"RED"},{"name":"0603-RES","value":"300"},{"name":"0603-RES","value":"180"},{"name":"0603-RES","value":"10k"},{"name":"ENCODER_LED_RGB","value":"ENCODER_RGB"}]}
+"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"SO16","value":"74LS595D"},{"name":"FIDUCIAL-1X2.5","value":"FIDUCIAL1X2.5"},{"name":"LED_RING","value":"RED"},{"name":"0603-RES","value":"300"},{"name":"0603-RES","value":"180"},{"name":"0603-RES","value":"10k"},{"name":"ENCODER_LED_RGB","value":"ENCODER_RGB"}]}

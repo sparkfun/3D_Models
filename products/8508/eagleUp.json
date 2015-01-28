@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"AVR_ICSP","value":"AVR_SPI_PROG"},{"name":"2X3","value":"AVR_SPI_PRG_6PTH"}]}
+"component_packages": [{"name":"AVR_ICSP","value":"AVR_SPI_PROG"}]}

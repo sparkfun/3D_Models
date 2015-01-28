@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"MICRO-FIDUCIAL","value":"FIDUCIALUFIDUCIAL"},{"name":"0603-RES","value":"10k"},{"name":"STAND-OFF","value":"STAND-OFF"},{"name":"BGA8DS","value":"TMP006"}]}
+"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"0603-RES","value":"10k"},{"name":"BGA8DS","value":"TMP006"}]}
