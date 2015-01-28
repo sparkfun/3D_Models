@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"TQFP32-08","value":"ATMEGA328P-AU"},{"name":"0603-CAP","value":"0.1uF"},{"name":"0603-RES","value":"10k"},{"name":"0603-RES","value":"100"},{"name":"0603-RES","value":"1k"},{"name":"7-SEGMENT-4DIGIT-COUNTER","value":"7-SEGMENT-4DIGIT-COUNTERPTH"},{"name":"DUEMILANOVE_SHIELD","value":"ARDUINO_SHIELDLABEL"}]}
+"component_packages": [{"name":"TQFP32-08","value":"ATMEGA328P-AU"},{"name":"0603-CAP","value":"0.1uF"},{"name":"0603-RES","value":"10k"},{"name":"0603-RES","value":"100"},{"name":"0603-RES","value":"1k"}]}
