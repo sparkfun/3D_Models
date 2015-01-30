@@ -1,1 +1,0 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/Papilio_Audio_Wing/f537a285098b69e7402a25b2f49ebccf83075c55/Hardware/Papilio-Audio_Wing.brd) using EagleUp on 01/29/15 at 18:26:21 -07:00
