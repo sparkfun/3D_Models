@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"SJ_3_PASTE2_3","value":"JUMPER-32-3"},{"name":"0603-RES","value":"1K"},{"name":"SOT563-2","value":"TMP1021:1"}]}
+"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"0603-RES","value":"1K"},{"name":"SOT563-2","value":"TMP1021:1"}]}
