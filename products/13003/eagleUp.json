@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"0805","value":"2.2uF"},{"name":"0805","value":"1uF X5R"},{"name":"0603-CAP","value":"1uF"},{"name":"1206","value":"4.7uF/16V"},{"name":"OLED-0.66-64X48","value":"OLED0.66"},{"name":"0603-RES","value":"390k"},{"name":"0603-RES","value":"10k"},{"name":"PAD-JUMPER-3-2OF3_NC_BY_PASTE_YES_SILK_FULL_BOX","value":"BS1"},{"name":"PAD-JUMPER-3-2OF3_NC_BY_PASTE_YES_SILK_FULL_BOX","value":"BS2"}]}
+"component_packages": [{"name":"0805","value":"2.2uF"},{"name":"0805","value":"1uF X5R"},{"name":"0603-CAP","value":"1uF"},{"name":"1206","value":"4.7uF/16V"},{"name":"OLED-0_66-64X48","value":"OLED0.66"},{"name":"0603-RES","value":"390k"},{"name":"0603-RES","value":"10k"}]}

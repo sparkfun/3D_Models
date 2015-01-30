@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"0603-RES","value":"10K"},{"name":"0603-RES","value":"200k"},{"name":"0603-RES","value":"2.2k"},{"name":"PAD-JUMPER-2-NC_BY_PASTE_YES_SILK","value":"JUMPER-PAD-2-NC_BY_PASTE"},{"name":"PAD-JUMPER-2-NO_YES_SILK","value":"JUMPER-PAD-2-NOYES_SILK"},{"name":"EDISON_DAUGHTER","value":"EDISON_CONNECTOR_FULLMOUNTING_HOLES"},{"name":"DF40C-70DP-0.4(51)","value":"EDISON_CONNECTOR_FULLHEADER"},{"name":"MSOP10","value":"ADS1015"},{"name":"PCA9306DC-1:1","value":"PCA9306"}]}
+"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"0603-RES","value":"10K"},{"name":"0603-RES","value":"200k"},{"name":"0603-RES","value":"2.2k"},{"name":"PAD-JUMPER-2-NC_BY_PASTE_YES_SILK","value":"JUMPER-PAD-2-NC_BY_PASTE"},{"name":"PAD-JUMPER-2-NO_YES_SILK","value":"JUMPER-PAD-2-NOYES_SILK"},{"name":"DF40C-70DP-0_4_51_","value":"EDISON_CONNECTOR_FULLHEADER"},{"name":"MSOP10","value":"ADS1015"},{"name":"PCA9306DC-1_1","value":"PCA9306"}]}

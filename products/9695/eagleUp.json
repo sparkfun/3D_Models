@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"QFN-20-0.4MM-V2","value":"MPR121"},{"name":"1X12","value":"Electrodes"},{"name":"0603-RES","value":"75k"},{"name":"0603-RES","value":"10k"},{"name":"SJ_2S-TRACE","value":"SOLDERJUMPERTRACE"}]}
+"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"QFN-20-0_4MM-V2","value":"MPR121"},{"name":"1X12","value":"Electrodes"},{"name":"0603-RES","value":"75k"},{"name":"0603-RES","value":"10k"}]}

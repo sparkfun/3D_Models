@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"EIA3216","value":"10uF"},{"name":"0402-CAP","value":"0.1uF"},{"name":"0402-CAP","value":"47pF"},{"name":"LED-0603","value":"RED"},{"name":"LED-0603","value":"YELLOW"},{"name":"SOT323","value":"2N7002PW"},{"name":"0402-RES","value":"27"},{"name":"0402-RES","value":"1k"},{"name":"0402-RES","value":"10k"},{"name":"SJ_2S-TRACE","value":"TXLED"},{"name":"SJ_2S-TRACE","value":"RXLED"},{"name":"SSOP20_L","value":"FT231XS"},{"name":"USB-MICROB","value":"USB-MICROB"}]}
+"component_packages": [{"name":"EIA3216","value":"10uF"},{"name":"0402-CAP","value":"0.1uF"},{"name":"0402-CAP","value":"47pF"},{"name":"LED-0603","value":"RED"},{"name":"LED-0603","value":"YELLOW"},{"name":"SOT323","value":"2N7002PW"},{"name":"0402-RES","value":"27"},{"name":"0402-RES","value":"1k"},{"name":"0402-RES","value":"10k"},{"name":"SSOP20_L","value":"FT231XS"},{"name":"USB-MICROB","value":"USB-MICROB"}]}

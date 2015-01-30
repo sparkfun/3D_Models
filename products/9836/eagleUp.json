@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"EIA3216","value":"10uF"},{"name":"LGA14_1:1_PATRICK","value":"ADXL345PATRICK"}]}
+"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"EIA3216","value":"10uF"},{"name":"LGA14_1_1_PATRICK","value":"ADXL345PATRICK"}]}

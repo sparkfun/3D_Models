@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"AUDIO-JACK-.25-INCH-HORIZ-PTH","value":"AUDIO-JACK4-.25-HORIZ-TRS"},{"name":"1X01NS","value":"M01SMDNS"},{"name":"1X06_NO_SILK","value":"HDR"}]}
+"component_packages": [{"name":"AUDIO-JACK-_25-INCH-HORIZ-PTH","value":"AUDIO-JACK4-.25-HORIZ-TRS"},{"name":"1X06_NO_SILK","value":"HDR"}]}

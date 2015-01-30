@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"1206","value":"10uF"},{"name":"0603-CAP","value":"1.0uF"},{"name":"SOD-523","value":"RB751"},{"name":"LED-0603","value":"RED"},{"name":"SO014","value":"LMV324"},{"name":"1X05","value":"IO Connector"},{"name":"MIC-9.7MM","value":"MIC9.7MM"},{"name":"0603-RES","value":"2.2k"},{"name":"0603-RES","value":"1K"},{"name":"0603-RES","value":"100k"},{"name":"0603-RES","value":"10K"},{"name":"0603-RES","value":"22K"},{"name":"0603-RES","value":"100"},{"name":"0603-RES","value":"3.3k"},{"name":"AXIAL-0.1EZ","value":"GAIN"}]}
+"component_packages": [{"name":"1206","value":"10uF"},{"name":"0603-CAP","value":"1.0uF"},{"name":"SOD-523","value":"RB751"},{"name":"LED-0603","value":"RED"},{"name":"SO014","value":"LMV324"},{"name":"1X05","value":"IO Connector"},{"name":"MIC-9_7MM","value":"MIC9.7MM"},{"name":"0603-RES","value":"2.2k"},{"name":"0603-RES","value":"1K"},{"name":"0603-RES","value":"100k"},{"name":"0603-RES","value":"10K"},{"name":"0603-RES","value":"22K"},{"name":"0603-RES","value":"100"},{"name":"0603-RES","value":"3.3k"},{"name":"AXIAL-0_1EZ","value":"GAIN"}]}
