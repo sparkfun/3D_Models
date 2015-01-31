@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"C0402","value":"0.1uF"},{"name":"EIA3216","value":"10uF"},{"name":"PTC-1206","value":"PTC"},{"name":"1X04","value":"AIN"},{"name":"1X04","value":"DIN"},{"name":"1X04","value":"AOUT"},{"name":"1X04","value":"DOUT"},{"name":"LED-1206","value":"Power"},{"name":"LED-0603","value":"TX"},{"name":"LED-0603","value":"RX"},{"name":"C0402","value":"1K"},{"name":"C0402","value":"330"},{"name":"SOIC28","value":"CY8C29466-24SOIC"},{"name":"SSOP28DB","value":"FT232RL"},{"name":"USB-MINIB","value":"USBSMD"}]}
+"component_packages": [{"name":"C0402","value":"0.1uF"},{"name":"EIA3216","value":"10uF"},{"name":"PTC-1206","value":"PTC"},{"name":"LED-1206","value":"Power"},{"name":"LED-0603","value":"TX"},{"name":"LED-0603","value":"RX"},{"name":"C0402","value":"1K"},{"name":"C0402","value":"330"},{"name":"SOIC28","value":"CY8C29466-24SOIC"},{"name":"SSOP28DB","value":"FT232RL"},{"name":"USB-MINIB","value":"USBSMD"}]}

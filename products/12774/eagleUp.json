@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"LED-0603","value":"RED"},{"name":"0603","value":"4.7k"},{"name":"0603-RES","value":"10k"},{"name":"0603-RES","value":"1K"},{"name":"SJ_3_PASTE1_2_3","value":"I2C EN"},{"name":"SJ_2S-NO","value":"A1"},{"name":"SJ_2S-NO","value":"A0"},{"name":"SJ_2S-NO","value":"WP"},{"name":"BEAGLE_BONE_BLACK_CAPE","value":"BEAGLE_BONE_BLACK_CAPE"},{"name":"1X23","value":"M23"},{"name":"SO08","value":"EEPROM-I2CSMD"}]}
+"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"LED-0603","value":"RED"},{"name":"0603","value":"4.7k"},{"name":"0603-RES","value":"10k"},{"name":"0603-RES","value":"1K"},{"name":"SJ_3_PASTE1_2_3","value":"I2C EN"},{"name":"BEAGLE_BONE_BLACK_CAPE","value":"BEAGLE_BONE_BLACK_CAPE"},{"name":"SO08","value":"EEPROM-I2CSMD"}]}

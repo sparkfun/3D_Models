@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"EIA3216","value":"10uF"},{"name":"0603-CAP","value":"47pF"},{"name":"0603-CAP","value":"0.1uF"},{"name":"LED-0603","value":"RED"},{"name":"LED-0603","value":"GREEN"},{"name":"1X11_NO_SILK","value":"M111X11_NO_SILK"},{"name":"0603-RES","value":"27"},{"name":"0603-RES","value":"1k"},{"name":"0603-RES","value":"330"},{"name":"TACTILE_SWITCH_SMD","value":"Reset"},{"name":"XBEE-SMD","value":"XBEE-1B3"},{"name":"SOT23-5","value":"MIC5219 3.3V"},{"name":"SSOP20_L","value":"FT231XS"},{"name":"USB-MINIB","value":"USBSMD"}]}
+"component_packages": [{"name":"EIA3216","value":"10uF"},{"name":"0603-CAP","value":"47pF"},{"name":"0603-CAP","value":"0.1uF"},{"name":"LED-0603","value":"RED"},{"name":"LED-0603","value":"GREEN"},{"name":"0603-RES","value":"27"},{"name":"0603-RES","value":"1k"},{"name":"0603-RES","value":"330"},{"name":"TACTILE_SWITCH_SMD","value":"Reset"},{"name":"XBEE-SMD","value":"XBEE-1B3"},{"name":"SOT23-5","value":"MIC5219 3.3V"},{"name":"SSOP20_L","value":"FT231XS"},{"name":"USB-MINIB","value":"USBSMD"}]}

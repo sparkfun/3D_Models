@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages":[]}
+"component_packages": [{"name":"0603-CAP","value":"1uF"},{"name":"0603-CAP","value":"47nF"},{"name":"0603-RES","value":"100"},{"name":"0603-RES","value":"2.2k"},{"name":"TSOP8523","value":"IRRECEIVERSMD"}]}
