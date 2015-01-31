@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"0402-CAP","value":"0.1uF"},{"name":"0402-CAP","value":"2.2nF"},{"name":"0402-CAP","value":"10nF"},{"name":"1X11","value":"M11PTH"},{"name":"0402-RES","value":"10k"},{"name":"QFN-24-NP","value":"MPU-9150"}]}
+"component_packages": [{"name":"0402-CAP","value":"0.1uF"},{"name":"0402-CAP","value":"2.2nF"},{"name":"0402-CAP","value":"10nF"},{"name":"0402-RES","value":"10k"},{"name":"QFN-24-NP","value":"MPU-9150"}]}
