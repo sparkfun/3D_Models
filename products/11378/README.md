@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/jimblom/MaKey-Mate-Bluetooth/9586b361fb7e701fd50d009c723f0aa713b86188/hardware/BT_Mate_MaKey.brd) using EagleUp on 01/30/15 at 20:18:37 -07:00
