@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"0603-CAP","value":"4.7uF"},{"name":"SMA-DIODE","value":"MBRA140"},{"name":"POWER_JACK_SMD","value":"POWER_JACKSMD"},{"name":"LED-0603","value":"RED"},{"name":"0603-RES","value":"2k"},{"name":"0603-RES","value":"10k"},{"name":"0603-RES","value":"330"},{"name":"SOT23-5","value":"MCP73831"},{"name":"USB-MINIB","value":"USBSMD"}]}
+"component_packages": [{"name":"0603-CAP","value":"4.7uF"},{"name":"SMA-DIODE","value":"MBRA140"},{"name":"POWER_JACK_SMD","value":"POWER_JACKSMD"},{"name":"JST-2-SMD","value":""},{"name":"LED-0603","value":"RED"},{"name":"0603-RES","value":"2k"},{"name":"0603-RES","value":"10k"},{"name":"0603-RES","value":"330"},{"name":"SOT23-5","value":"MCP73831"},{"name":"USB-MINIB","value":"USBSMD"}]}
