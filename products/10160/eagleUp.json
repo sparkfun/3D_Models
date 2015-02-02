@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"BATTCON_12MM_CURVED","value":"3V"},{"name":"0402-CAP","value":"22pF"},{"name":"FIDUCIAL-1X2","value":"FIDUCIAL1X2"},{"name":"0402-RES","value":"10k"},{"name":"DS3234","value":"DS3234"}]}
+"component_packages": [{"name":"BATTCON_12MM_CURVED","value":"3V"},{"name":"0402-CAP","value":"22pF"},{"name":"0402-RES","value":"10k"},{"name":"DS3234","value":"DS3234"}]}

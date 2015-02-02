@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"STAND-OFF","value":"STAND-OFF"},{"name":"0603-RES","value":"100"},{"name":"0603-RES","value":"10K"},{"name":"QRE1113-1:1","value":"QRE11131:1"}]}
+"component_packages": [{"name":"0603-RES","value":"100"},{"name":"0603-RES","value":"10K"},{"name":"QRE1113-1_1","value":"QRE11131:1"}]}

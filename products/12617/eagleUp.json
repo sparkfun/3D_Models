@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"0603-CAP","value":"1.0uF"},{"name":"MICRO-FIDUCIAL","value":"FIDUCIALUFIDUCIAL"},{"name":"SOT23","value":"MMBT2222A"},{"name":"0603-RES","value":"100"},{"name":"0603-RES","value":"10K"},{"name":"0603-RES","value":"47K"},{"name":"0603-RES","value":"6.8K"},{"name":"0603-RES","value":"4.7K"},{"name":"STAND-OFF","value":"STAND-OFF"},{"name":"QRE1113","value":"QRE1113"}]}
+"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"0603-CAP","value":"1.0uF"},{"name":"SOT23","value":"MMBT2222A"},{"name":"0603-RES","value":"100"},{"name":"0603-RES","value":"10K"},{"name":"0603-RES","value":"47K"},{"name":"0603-RES","value":"6.8K"},{"name":"0603-RES","value":"4.7K"},{"name":"QRE1113","value":"QRE1113"}]}

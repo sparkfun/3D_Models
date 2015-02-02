@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"EIA3216","value":"10uF"},{"name":"SOD-323","value":"BAS16"},{"name":"FIDUCIAL-1X2","value":"FIDUCIAL1X2"},{"name":"DB9-L17SM209S114T","value":"DB9"},{"name":"LED-1206","value":"Red"},{"name":"LED-1206","value":"Grn"},{"name":"0603-RES","value":"10K"},{"name":"0603-RES","value":"330"},{"name":"SOT23-6","value":"XN04312"}]}
+"component_packages": [{"name":"EIA3216","value":"10uF"},{"name":"SOD-323","value":"BAS16"},{"name":"DB9-L17SM209S114T","value":"DB9"},{"name":"LED-1206","value":"Red"},{"name":"LED-1206","value":"Grn"},{"name":"0603-RES","value":"10K"},{"name":"0603-RES","value":"330"},{"name":"SOT23-6","value":"XN04312"}]}

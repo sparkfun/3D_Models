@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"AXIAL-0.3","value":"220"},{"name":"GP1A57HR","value":"GP1A57HR"}]}
+"component_packages": [{"name":"AXIAL-0_3","value":"220"},{"name":"GP1A57HR","value":"GP1A57HR"}]}

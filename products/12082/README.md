@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/AD5330_Breakout/ec961023578bd6d88a69849b37aa34760c160ae2/Hardware/AD5330_Breakout.brd) using EagleUp on 01/30/15 at 0:53:32 -07:00

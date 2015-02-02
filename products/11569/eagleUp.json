@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"DB15","value":"DB15"},{"name":"MICRO-FIDUCIAL","value":"FIDUCIALUFIDUCIAL"},{"name":"0402-RES","value":"82.5"},{"name":"0402-RES","value":"270"}]}
+"component_packages": [{"name":"DB15","value":"DB15"},{"name":"0402-RES","value":"82.5"},{"name":"0402-RES","value":"270"}]}

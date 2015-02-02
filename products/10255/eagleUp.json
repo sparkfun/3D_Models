@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"1206","value":"10uF"},{"name":"0603-CAP","value":"0.1uF"},{"name":"0805","value":"22uF"},{"name":"1X02","value":"VOUT"},{"name":"JST-2-SMD","value":"JST"},{"name":"FIDUCIAL-1X2","value":"FIDUCIAL1X2"},{"name":"1X02","value":"VIN"},{"name":"CDRH2D09","value":"4.7uH, 1.2A"},{"name":"0603-RES","value":"2M"},{"name":"0603-RES","value":"220k"},{"name":"0603-RES","value":"1.2M"},{"name":"QFN-10_PAD","value":"TPS61200"}]}
+"component_packages": [{"name":"1206","value":"10uF"},{"name":"0603-CAP","value":"0.1uF"},{"name":"0805","value":"22uF"},{"name":"JST-2-SMD","value":"JST"},{"name":"CDRH2D09","value":"4.7uH, 1.2A"},{"name":"0603-RES","value":"2M"},{"name":"0603-RES","value":"220k"},{"name":"0603-RES","value":"1.2M"},{"name":"QFN-10_PAD","value":"TPS61200"}]}

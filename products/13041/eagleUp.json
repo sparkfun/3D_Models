@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"FIDUCIAL-1X2","value":"FIDUCIAL1X2"},{"name":"MICRO-SD-SOCKET-PP","value":"USD-SOCKETNEW"},{"name":"EDISON_DAUGHTER","value":"EDISON_CONNECTOR_FULLMOUNTING_HOLES"},{"name":"DF40C-70DP-0.4(51)","value":"EDISON_CONNECTOR_FULLHEADER"},{"name":"UFDFN-20","value":"TXB0108"}]}
+"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"MICRO-SD-SOCKET-PP","value":"USD-SOCKETNEW"},{"name":"EDISON_DAUGHTER","value":"EDISON_CONNECTOR_FULLMOUNTING_HOLES"},{"name":"DF40C-70DP-0_4_51_","value":"EDISON_CONNECTOR_FULLHEADER"},{"name":"UFDFN-20","value":"TXB0108"}]}

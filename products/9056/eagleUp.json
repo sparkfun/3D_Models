@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"0603","value":"0.1uF"},{"name":"0603","value":"10K"},{"name":"STAND-OFF","value":"STAND-OFF"},{"name":"SSOP24","value":"MUX-74HC4067"}]}
+"component_packages": [{"name":"0603","value":"0.1uF"},{"name":"0603","value":"10K"},{"name":"SSOP24","value":"MUX-74HC4067"}]}

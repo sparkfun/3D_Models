@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"0603-CAP","value":".01uF"},{"name":"SOD-323","value":"BAS16"},{"name":"MICRO-FIDUCIAL","value":"FIDUCIALUFIDUCIAL"},{"name":"1X03_NO_SILK","value":"POWER & OUTPUT"},{"name":"SOT23","value":"MMBT3906"},{"name":"0603-RES","value":"10k"},{"name":"0603-RES","value":"1k"},{"name":"0603-RES","value":"1meg"},{"name":"0603-RES","value":"100"},{"name":"0603-RES","value":"330"},{"name":"TACTILE-PTH-12MM","value":"SWITCH-MOMENTARY-212MM"},{"name":"STANDOFF-ELECTRICAL","value":"STANDOFF_ELECTRICAL"},{"name":"SO08","value":"LMV358"}]}
+"component_packages": [{"name":"0603-CAP","value":".01uF"},{"name":"SOD-323","value":"BAS16"},{"name":"SOT23","value":"MMBT3906"},{"name":"0603-RES","value":"10k"},{"name":"0603-RES","value":"1k"},{"name":"0603-RES","value":"1meg"},{"name":"0603-RES","value":"100"},{"name":"0603-RES","value":"330"},{"name":"TACTILE-PTH-12MM","value":"SWITCH-MOMENTARY-212MM"},{"name":"SO08","value":"LMV358"}]}

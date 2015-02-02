@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"SSOP20","value":"PIC16F88-SSOP"},{"name":"SOT23-3","value":"TRANSISTOR_PNPSMD"},{"name":"TRIMPOT-3MM","value":"TRIMPOTSMD"},{"name":"PIC-ICSP-MINI","value":"PIC-ICSP-MINI"},{"name":"LOGO-FLAME-LARGE","value":"LOGO-FLAME-LARGE"},{"name":"FIDUCIAL-1X2","value":"FIDUCIAL1X2"},{"name":"RESONATOR-SMD","value":"RESONATORSMD"}]}
+"component_packages": [{"name":"SSOP20","value":"PIC16F88-SSOP"},{"name":"SOT23-3","value":"TRANSISTOR_PNPSMD"},{"name":"TRIMPOT-3MM","value":"TRIMPOTSMD"},{"name":"PIC-ICSP-MINI","value":"PIC-ICSP-MINI"},{"name":"RESONATOR-SMD","value":"RESONATORSMD"}]}

@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/MPU-6050_Breakout/b44970f5f1c3fa00e20a8ec7de29b02b293b55dc/Hardware/Triple_Axis_Accelerometer_-_Gyro_Breakout_-_MPU-6050.brd) using EagleUp on 01/31/15 at 20:32:59 -07:00

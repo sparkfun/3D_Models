@@ -1,0 +1,1 @@
+Models generated from [these file(s)](http://raw.github.com/sparkfun/Logic_Level_Bidirectional/ff72f7271a2fdae38c49dec356c462ff4ec75784/Hardware/Logic_Level_Bidirectional.brd) using EagleUp on 01/29/15 at 18:49:53 -07:00

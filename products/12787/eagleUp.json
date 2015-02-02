@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"EIA7343","value":"100uF"},{"name":"0603-CAP","value":"1.0uF"},{"name":"FIDUCIAL-1X2","value":"FIDUCIAL1X2"},{"name":"0603-RES","value":"10k"},{"name":"0603","value":"4.7k"},{"name":"SJ_2S","value":"SOLDERJUMPERNC"},{"name":"STAND-OFF","value":"STAND-OFF"},{"name":"APDS-9960","value":"APDS-9960"}]}
+"component_packages": [{"name":"EIA7343","value":"100uF"},{"name":"0603-CAP","value":"1.0uF"},{"name":"0603-RES","value":"10k"},{"name":"0603","value":"4.7k"},{"name":"APDS-9960","value":"APDS-9960"}]}

@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"1X11_NO_SILK","value":"M111X11_NO_SILK"},{"name":"SFE_LOGO_NAME_.1","value":"SFE_LOGO_NAME.1_INCH"},{"name":"ROTARY_SWITCH_1X10_KIT","value":"1x10"},{"name":"STAND-OFF","value":"STAND-OFF"}]}
+"component_packages": [{"name":"ROTARY_SWITCH_1X10_KIT","value":"1x10"}]}

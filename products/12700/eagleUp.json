@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"FIDUCIAL-1X2","value":"FIDUCIAL1X2"},{"name":"USB-A-S-NOSILK-FEMALE","value":"USB+SHIELDUSB-A-S-NOSILK-FEMALE"},{"name":"0603-RES","value":"0"},{"name":"STAND-OFF","value":"STAND-OFF"}]}
+"component_packages": [{"name":"USB-A-S-NOSILK-FEMALE","value":"USB+SHIELDUSB-A-S-NOSILK-FEMALE"},{"name":"0603-RES","value":"0"}]}

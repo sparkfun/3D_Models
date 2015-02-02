@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"1X14","value":"M14"},{"name":"SO-28W","value":"PIC18F2455SMD"}]}
+"component_packages": [{"name":"SO-28W","value":"PIC18F2455SMD"}]}

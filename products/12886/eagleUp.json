@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"1210","value":"10uF"},{"name":"0805","value":"22uF"},{"name":"0603-CAP","value":"0.1uF"},{"name":"FIDUCIAL-1X2","value":"FIDUCIAL1X2"},{"name":"1X09_NO_SILK","value":"M09NO_SILK"},{"name":"VLF4012A","value":"2.2uH"},{"name":"SOT23-3","value":"DMG2307L-7"},{"name":"0603-RES","value":"100k"},{"name":"WSON-8-PAD","value":"TPS62172"},{"name":"SOT23-3","value":"ATSHA204-TSU"},{"name":"SD_1:1","value":"ELECTRIC_IMP"},{"name":"USB-MINIB","value":"USBSMD"}]}
+"component_packages": [{"name":"1210","value":"10uF"},{"name":"0805","value":"22uF"},{"name":"0603-CAP","value":"0.1uF"},{"name":"1X09_NO_SILK","value":"M09NO_SILK"},{"name":"VLF4012A","value":"2.2uH"},{"name":"SOT23-3","value":"DMG2307L-7"},{"name":"0603-RES","value":"100k"},{"name":"WSON-8-PAD","value":"TPS62172"},{"name":"SOT23-3","value":"ATSHA204-TSU"},{"name":"SD_1_1","value":"ELECTRIC_IMP"},{"name":"USB-MINIB","value":"USBSMD"}]}

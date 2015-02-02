@@ -1,0 +1,1 @@
+Models generated from [these file(s)](http://raw.github.com/sparkfun/Arduino_Pro_Mini_328/365f073db730b88cd42f1180813b5a66018635e8/Hardware/Arduino-Pro-Mini.brd) using EagleUp on 01/27/15 at 21:37:14 -07:00

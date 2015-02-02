@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Solder-able_Breadboard/30bd45b921a28740db06ccb94c362a1a8d5850fb/hardware/SIK-DIP-board.brd) using EagleUp on 01/29/15 at 18:39:16 -07:00
