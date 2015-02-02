@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Voice_Recorder_Breakout-ISD1932/e02c7687a06670fa1363598f2d092bd1db72b5c4/Hardware/ISD1932 Breakout-v21.brd) using EagleUp on 02/01/15 at 20:54:19 -07:00
