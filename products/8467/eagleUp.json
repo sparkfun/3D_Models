@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/LilyPad_Tri-Color_LED/v_1.6/Hardware/SparkFun_LilyPad_Tricolor-LED.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":0.8,
+"board_color":"0x40243D",
+"trace_color":"0x5A3158",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"LED-TRICOLOR-SMD","value":"LED-TRICOLOR"},{"name":"0402-RES","value":"200"},{"name":"0402-RES","value":"100"},{"name":"PETAL-NOHOLE-2SIDE","value":"SEWTAP-NOHOLE2"},{"name":"PETAL-SMALL-2SIDE","value":"SEWTAP6"}]}
