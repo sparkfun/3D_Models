@@ -1,4 +1,4 @@
-{"repository":"https://raw.github.com/sparkfun/APDS-9960_RGB_and_Gesture_Sensor/v10/Hardware/SparkFun_APDS-9960_RGB_and_Gesture_Sensor.brd",
+{"repository":"https://raw.github.com/sparkfun/APDS-9960_RGB_and_Gesture_Sensor/5eebe9392b4d3f1e083f184159849136f4a5d2e2/Hardware/SparkFun_APDS-9960_RGB_and_Gesture_Sensor.brd",
 "resolution":"600",
 "outline_layer":"20",
 "silk_layer":"place",
@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"EIA7343","value":"100uF"},{"name":"0603-CAP","value":"1.0uF"},{"name":"0603-RES","value":"10k"},{"name":"0603","value":"4.7k"},{"name":"APDS-9960","value":"APDS-9960"}]}
+"component_packages": [{"name":"EIA7343","value":"100uF"},{"name":"0603-CAP","value":"1.0uF"},{"name":"0603-RES","value":"10k"},{"name":"0603-RES","value":"4.7K"},{"name":"APDS-9960","value":"APDS-9960"}]}
