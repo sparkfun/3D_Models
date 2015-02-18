@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/MPR121_Capacitive_Touch_Breakout/03f471c0cd64b331c5ed37f9410bb69bd5e502cf/Hardware/MPR121-Breakout-v13.brd) using EagleUp on 02/17/15 at 19:51:34 -07:00
