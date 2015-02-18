@@ -11,5 +11,5 @@
 	"trace_color":"0xE2012D",
 	"plating":"silver",
 	"silk":"ivory",
-	"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"EIA3216","value":"10uF"},{"name":"PTC-1206","value":"500mA"},{"name":"USB-B-MICRO-SMD_V03","value":"USB_MICROB_PLUGCONN-11752"},{"name":"LED-0603","value":"Red"},{"name":"LED-0603","value":"Green"},{"name":"0603-RES","value":"330"},{"name":"SSOP28DB","value":"FT232R"}]
+	"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"EIA3216","value":"10uF"},{"name":"PTC-1206","value":"500mA"},{"name":"USB-B-MICRO-SMD_V03","value":"USB_MICROB_PLUGCONN-11752"},{"name":"LED-0603","value":"Red"},{"name":"LED-0603","value":"Green"},{"name":"0603-RES","value":"330"},{"name":"AYZ0202","value":""},{"name":"SSOP28DB","value":"FT232R"}]
 }
