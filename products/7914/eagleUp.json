@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/ProtoShield_Kit/V_2.5/Hardware/SparkFun_ProtoShield_Kit.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"BREADBOARD-MINI","value":"BREADBOARDMINI"},{"name":"CAP-PTH-SMALL2","value":"0.1uF"},{"name":"2X03","value":"ICSP"},{"name":"1X08","value":"Digital1"},{"name":"1X08","value":"Digital2"},{"name":"1X16","value":"M16PTH"},{"name":"AXIAL-0_3","value":"330"},{"name":"AXIAL-0_3","value":"10K"},{"name":"TACTILE-PTH","value":"Reset"}]}
