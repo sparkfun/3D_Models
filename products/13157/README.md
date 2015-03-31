@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Breadboard_Power_Supply_Stick_3.3V-1.8V/e20de092731a95e48035bd819808cd0199bded37/Hardware/SparkFun_Breadboard_Power_Supply-3.3-1.8SMD.brd) using EagleUp on 03/27/15 at 11:30:16 -06:00
