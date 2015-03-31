@@ -1,0 +1,13 @@
+{"repository":"S:\\Git\\Easy_Driver-master\\Easy_Driver-master\\Hardware\\EasyDriver_v45.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0603-CAP","value":".1uF"},{"name":"0603-CAP","value":"1uf"},{"name":"PANASONIC_D","value":"47uF"},{"name":"0603-CAP","value":"680pF"},{"name":"SO24W","value":"A3967SLB"},{"name":"SOT223","value":"V_REG_317SMD"},{"name":"LED-0603","value":"YELLOW"},{"name":"0805","value":".75"},{"name":"0603-RES","value":"20K"},{"name":"0603-RES","value":"2.49K"},{"name":"0603-RES","value":"390"},{"name":"0603-RES","value":"330"},{"name":"0603-RES","value":"240"},{"name":"0603-RES","value":"1K"},{"name":"0603-RES","value":"10K"},{"name":"TRIMPOT-3MM-2","value":"10K"},{"name":"0603-RES","value":"6.8K"},{"name":"TP_15TH","value":"TEST-POINTTP_15TH_THRU"}]}
