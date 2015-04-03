@@ -1,0 +1,13 @@
+{"repository":"S:\\Git\\CryptoShield-master\\CryptoShield-master\\Hardware\\cryptoshield.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"BATTCON_12MM","value":"3V"},{"name":"0603-CAP","value":"0.1uF"},{"name":"0603-CAP","value":".1uf"},{"name":"0603-CAP","value":"2200pf"},{"name":"1210","value":"10uF"},{"name":"SOT23-3","value":"BSS138"},{"name":"0603-RES","value":"1k"},{"name":"0603-RES","value":"10K"},{"name":"0603","value":"4.7K"},{"name":"TACTILE-SWITCH-SMD","value":"Reset"},{"name":"LED-0603","value":"GREEN"},{"name":"SOT353","value":"74LVC1G04"},{"name":"CRYSTAL-OSC-SMD-5X3_2","value":"33mhz"},{"name":"ID-12_SMD","value":"ID-12/20SMD"},{"name":"SOIC8","value":"ATAES132"},{"name":"TSSOP28","value":"AT97SC3204T"},{"name":"SOIC8","value":"DS3231M"},{"name":"SOIC8","value":"ATSHA204_SOIC8"},{"name":"SOIC8","value":"ATECC108"}]}
