@@ -1,4 +1,4 @@
-{"repository":"https://raw.github.com/sparkfun/SparkFun-MG2639-Cellular-Shield/c987a40ce3b55a38049362f475076632db5345e0/hardware/MG2639%20Cellular%20Shield.brd",
+{"repository":"S:\\Git\\SparkFun-MG2639-Cellular-Shield-master\\SparkFun-MG2639-Cellular-Shield-master\\hardware\\MG2639 Cellular Shield.brd",
 "resolution":"600",
 "outline_layer":"20",
 "silk_layer":"place",
@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages":[]}
+"component_packages": [{"name":"BATTCON_12MM","value":"12mm coincell"},{"name":"1210","value":"10uF"},{"name":"0603-CAP","value":"33pF"},{"name":"0603-CAP","value":"1.0uF"},{"name":"0603-CAP","value":"0.1uF"},{"name":"EIA7343","value":"100uF"},{"name":"LED-1206","value":"RED"},{"name":"LED-1206","value":"YELLOW"},{"name":"LED-1206","value":"GREEN"},{"name":"SIMHOLDER","value":"SIMHOLDER"},{"name":"SOT23-3","value":"MMBT2222A"},{"name":"0603-RES","value":"10K"},{"name":"0603-RES","value":"1K"},{"name":"0603","value":"4.7K"},{"name":"0603-RES","value":"2.2k"},{"name":"0603-RES","value":"22"},{"name":"TACTILE-SWITCH-SMD","value":"BOOT"},{"name":"TACTILE-SWITCH-SMD","value":"RESET"},{"name":"Q5-DD_SPX29300","value":"SPX29302"},{"name":"SO14","value":"TXB0104"},{"name":"MG2639","value":"MG2639V3"}]}
