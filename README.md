@@ -89,3 +89,10 @@ Diffuse:  #FFFFFF Intensity: 1.0
 Specular: #98041C Intensity: 0.5
 Hardness: 50
 ```
+#### Blue plastic (Screw Termitals)
+```
+Diffuse:  #0000FF Intensity: 0.8
+Specular: #0000A5 Intensity: 0.5
+Hardness: 50
+
+```
