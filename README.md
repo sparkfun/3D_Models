@@ -62,6 +62,13 @@ Specular: #FFB730 Intensity: 0.5
 Hardness: 100
 ```
 
+#### Leads
+```
+Diffuse:  #FFFFFF Intensity: 0.8
+Specular: #E6E6E6 Intensity: 0.5
+Hardness: 100
+```
+
 #### Black plastic (Headers, specifically)
 ```
 Diffuse:  #000000 Intensity: 0.8
