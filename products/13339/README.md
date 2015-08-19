@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/LSM6DS3_Breakout/30932279a7d44acfc882621ce12a9844e2132844/Hardware/LSM6DS3_Breakout.brd) using EagleUp on 08/14/15 at 11:11:54 -06:00
