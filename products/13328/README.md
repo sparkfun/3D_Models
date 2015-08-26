@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Photon_Wearable_Shield/cf17254ba178a55f8e014fe8b35f16d96fad5fcf/Hardware/SparkFun_Photon_Wearable_Shield.brd) using EagleUp on 08/26/15 at 15:50:59 -06:00
