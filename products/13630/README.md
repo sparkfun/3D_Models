@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Photon_Weather_Shield/d99ec38ca570ab78d538140754b6284a52d92385/Hardware/SparkFun_Photon_Weather_Shield.brd) using EagleUp on 08/26/15 at 16:23:46 -06:00

@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/Photon_Weather_Shield/d99ec38ca570ab78d538140754b6284a52d92385/Hardware/SparkFun_Photon_Weather_Shield.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0603-CAP","value":"1.0uF"},{"name":"0603-CAP","value":"0.1uF"},{"name":"EIA3216","value":"10uF"},{"name":"SOD-323","value":"250mA/100V"},{"name":"POWER_JACK_SMD","value":"5.5x2.1mm Barrel"},{"name":"RJ11-6","value":"RJ11"},{"name":"SPARK_PHOTON_TEMPLATE_WIDE_LOCKING","value":"PHOTON_TEMPLATE_WIDE_LOCKING"},{"name":"0603-RES","value":"4.7K"},{"name":"0603-RES","value":"10K"},{"name":"0603-RES","value":"1K"},{"name":"SOT23-5","value":"3.3V MIC5219"},{"name":"HTU21D","value":"HTU21D"},{"name":"LGA8","value":"MPL3115A2LGA8"}]}
