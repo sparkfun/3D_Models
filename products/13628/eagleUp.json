@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"0805-CAP","value":"2.2uF"},{"name":"0805-CAP","value":"1uF"},{"name":"0603-CAP","value":"1uF"},{"name":"1206-CAP","value":"4.7uF"},{"name":"OLED-0_66-64X48","value":"OLED0.66"},{"name":"0603-RES","value":"390k"},{"name":"0603-RES","value":"10k"},{"name":"0603-RES","value":"10K"}]}
+"component_packages": [{"name":"0805-CAP","value":"2.2uF"},{"name":"0805-CAP","value":"1uF"},{"name":"0603-CAP","value":"1uF"},{"name":"1206-CAP","value":"4.7uF"},{"name":"SPARK_PHOTON_TEMPLATE_WIDE","value":"SPARK_PHOTONTEMPLATE_WIDE"},{"name":"OLED-0_66-64X48","value":"OLED0.66"},{"name":"0603-RES","value":"390k"},{"name":"0603-RES","value":"10k"},{"name":"0603-RES","value":"10K"}]}
