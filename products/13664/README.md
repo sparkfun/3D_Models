@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/SAMD21_Mini_Breakout/ce1a136a2caf105106a8a0d41a3f33b8cf8b11e9/Hardware/sparkfun-samd21-mini-breakout.brd) using EagleUp on 11/16/15 at 12:25:42 -07:00

@@ -46,6 +46,7 @@ products/8601/display/8601a.stl
 products/8601/display/8601b.json
 products/8601/display/8601b_texture.png
 ```
+Hex for Lilypad 0x8000FF (purple)
 
 ## Blender Common Display Materials
 
