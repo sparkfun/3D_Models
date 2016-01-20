@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/SAMD21_Mini_Breakout/ce1a136a2caf105106a8a0d41a3f33b8cf8b11e9/Hardware/sparkfun-samd21-mini-breakout.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0402-CAP","value":"0.1uF"},{"name":"0402-CAP","value":"15pF"},{"name":"0805-CAP","value":"1.0uF"},{"name":"0603-CAP","value":"2.2uF"},{"name":"LED-0603","value":"GREEN"},{"name":"LED-0603","value":"RED"},{"name":"LED-0603","value":"BLUE"},{"name":"LED-0603","value":"Yellow"},{"name":"PTC-1206","value":"500mA"},{"name":"0603","value":"FB - 30Ohm"},{"name":"SOT323","value":"2N7002PW"},{"name":"SOT23-3","value":"2.5A/30V"},{"name":"0603-RES","value":"10K"},{"name":"0603-RES","value":"330"},{"name":"0603-RES","value":"100k"},{"name":"0603-RES","value":"47K"},{"name":"TACTILE_SWITCH_SMD_4_6X2_8MM","value":"RESET"},{"name":"TQFP-48","value":"ATSAMD21G-A"},{"name":"SOT23-5","value":"3.3V"},{"name":"SOT23-5","value":"74AHC1G125"},{"name":"CRYSTAL-SMD-3_2X1_5MM","value":"32.768kHz"}]}
