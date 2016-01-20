@@ -1,0 +1,13 @@
+{"repository":"S:\\Eagle_stuffs\\LilyPad_Reed_Switch-master\\LilyPad_Reed_Switch-master\\Hardware\\LilyPad-reed.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"8000FF",
+"trace_color":"8000FF",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"REED_SWITCH_PLASTIC","value":"REED"}]}
