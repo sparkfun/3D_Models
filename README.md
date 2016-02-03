@@ -102,5 +102,10 @@ Hardness: 50
 Diffuse:  #0000FF Intensity: 0.8
 Specular: #0000A5 Intensity: 0.5
 Hardness: 50
-
+```
+#### Blue PCB (Arduino)
+```
+Diffuse:  #0C457C Intensity: 0.8
+Specular: #0F4E7A Intensity: 0.5
+Hardness: 50
 ```
