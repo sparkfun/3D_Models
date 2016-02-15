@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Edison_Battery_Block/26c2c37ad96e5be5450ffc2b88f108fb3bff9484/Hardware/Battery_Block.brd) using EagleUp on 02/11/16 at 8:49:24 -07:00
