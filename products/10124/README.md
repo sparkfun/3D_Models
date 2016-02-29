@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/RS-485_Breakout/f935a58545d7c8349fc77e76ef60ffe8573419c0/Hardware/RS485_Breakout.brd) using EagleUp on 02/24/16 at 15:56:50 -07:00
