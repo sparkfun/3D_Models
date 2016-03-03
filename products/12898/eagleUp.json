@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/MIDI_Shield/52c9e162b502a745e42c55608d81d958764aa724/Hardware/SparkFun_MIDI_Shield.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"SMA-DIODE","value":"MBRA140"},{"name":"5-PIN-DIN-RA-PCB-NEW","value":"MIDI IN"},{"name":"5-PIN-DIN-RA-PCB-NEW","value":"MIDI OUT"},{"name":"LED-0603","value":"RED"},{"name":"LED-0603","value":"GREEN"},{"name":"0603-RES","value":"220"},{"name":"0603-RES","value":"330"},{"name":"ALPS_POT","value":"10k"},{"name":"TACTILE-SWITCH-SMD","value":"Reset"},{"name":"AYZ0202","value":"RUN/PROGRAM"},{"name":"TACTILE-PTH-12MM","value":"SWITCH-MOMENTARY-212MM"},{"name":"8-SMD","value":"6N138M"},{"name":"SOT23-5","value":"74AHC1G125"}]}
