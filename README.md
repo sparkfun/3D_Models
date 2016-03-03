@@ -109,3 +109,10 @@ Diffuse:  #0C457C Intensity: 0.8
 Specular: #0F4E7A Intensity: 0.5
 Hardness: 50
 ```
+
+#### White Plastic
+```
+Diffuse:  #FFFFFF Intensity: 0.8
+Specular: #E2E2E2 Intensity: 0.8
+Hardness: 25
+```
