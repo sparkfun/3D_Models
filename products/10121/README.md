@@ -1,1 +1,0 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/IMU_Digital_Combo_Board/ea42199ef930084c266f158df344216c9f821b62/Hardware/IMU_Digital_Combo_Board%20_-_6_Degrees_of_Freedom_-_ITG3200_-_ADXL345.brd) using EagleUp on 03/24/16 at 9:38:12 -06:00
