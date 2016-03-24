@@ -1,1 +1,1 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/BC127_Breakout_Board/80aca3bb92b5857b144fc7b2d6786cd0d825a3fd/Hardware/BC127_Breakout.brd) using EagleUp on 03/23/16 at 15:30:41 -06:00
+Models generated from [these file(s)](https://raw.github.com/sparkfun/BC127_Breakout_Board/80aca3bb92b5857b144fc7b2d6786cd0d825a3fd/Hardware/BC127_Breakout.brd) using EagleUp on 03/23/16 at 19:58:48 -06:00

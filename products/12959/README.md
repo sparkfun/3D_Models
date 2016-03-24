@@ -1,1 +1,1 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/MOSFET_Power_Control_Kit/28a65d9a8859ca9bbff846593d8f37c363f24979/Hardware/SparkFun_MOSFET_Power_Control_Kit.brd) using EagleUp on 03/23/16 at 16:06:39 -06:00
+Models generated from [these file(s)](https://raw.github.com/sparkfun/MOSFET_Power_Control_Kit/28a65d9a8859ca9bbff846593d8f37c363f24979/Hardware/SparkFun_MOSFET_Power_Control_Kit.brd) using EagleUp on 03/23/16 at 20:46:40 -06:00

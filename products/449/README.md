@@ -1,1 +1,1 @@
-Models generated from [these file(s)](S:\Eagle_stuffs\Sparkfun_RS232-master\Sparkfun_RS232-master\Hardware\Sparkfun_RS232.brd) using EagleUp on 05/27/15 at 17:15:16 -06:00
+Models generated from [these file(s)](https://raw.github.com/sparkfun/RS232_Shifter_SMD/969f0584fb1faf04c9a901699467f231f0011b71/Hardware/Sparkfun_RS232.brd) using EagleUp on 03/23/16 at 22:41:13 -06:00

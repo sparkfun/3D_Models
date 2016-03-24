@@ -10,4 +10,4 @@
 "trace_color":"0x5A3158",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"LED-TRICOLOR-SMD","value":"LED-TRICOLOR"},{"name":"0402-RES","value":"200"},{"name":"0402-RES","value":"100"},{"name":"PETAL-NOHOLE-2SIDE","value":"SEWTAP-NOHOLE2"},{"name":"PETAL-SMALL-2SIDE","value":"SEWTAP6"}]}
+"component_packages": [{"name":"LED-TRICOLOR-SMD","value":"LED-TRICOLOR"},{"name":"0402-RES","value":"200"},{"name":"0402-RES","value":"100"},{"name":"PETAL-NOHOLE-2SIDE","value":"SEWTAP-NOHOLE2"}]}

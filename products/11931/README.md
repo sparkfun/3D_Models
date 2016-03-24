@@ -1,1 +1,1 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/Digital_Temperature_Sensor_Breakout_-_TMP102/285311fbc8e8c0a25b406198d57e324ab6827ccc/Hardware/Digital Temperature Sensor Breakout - TMP102.brd) using EagleUp on 03/23/16 at 15:30:55 -06:00
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Digital_Temperature_Sensor_Breakout_-_TMP102/285311fbc8e8c0a25b406198d57e324ab6827ccc/Hardware/Digital Temperature Sensor Breakout - TMP102.brd) using EagleUp on 03/23/16 at 19:59:03 -06:00

@@ -1,1 +1,1 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/SAMD21_Dev_Breakout/9c4b619b4b6146528eab549a3de53a3f256623e8/Hardware/sparkfun-samd21-pro-breakout.brd) using EagleUp on 03/23/16 at 14:32:21 -06:00
+Models generated from [these file(s)](https://raw.github.com/sparkfun/SAMD21_Dev_Breakout/9c4b619b4b6146528eab549a3de53a3f256623e8/Hardware/sparkfun-samd21-pro-breakout.brd) using EagleUp on 03/23/16 at 22:33:30 -06:00

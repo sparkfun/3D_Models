@@ -1,1 +1,1 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/MiP_ProMini-Pack/ac9c1b68afdf822a1efe77b0b15e907632c0246b/Hardware/Sparkfun_MiP_ProMini-Pack.brd) using EagleUp on 03/23/16 at 17:19:16 -06:00
+Models generated from [these file(s)](https://raw.github.com/sparkfun/MiP_ProMini-Pack/ac9c1b68afdf822a1efe77b0b15e907632c0246b/Hardware/Sparkfun_MiP_ProMini-Pack.brd) using EagleUp on 03/23/16 at 21:20:30 -06:00
