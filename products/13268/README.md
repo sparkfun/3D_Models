@@ -1,1 +1,1 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/Snappable_P-Board/1f065c2e9c938203fd6c1f0bde13af4ad072642f/Hardware/SparkFun_Snappable_P-Board.brd) using EagleUp on 03/23/16 at 12:53:52 -06:00
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Snappable_P-Board/1f065c2e9c938203fd6c1f0bde13af4ad072642f/Hardware/SparkFun_Snappable_P-Board.brd) using EagleUp on 03/23/16 at 22:12:01 -06:00

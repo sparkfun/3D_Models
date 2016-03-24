@@ -1,1 +1,1 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/Serial_7_Segment_Shield/ed313bc0a88e3b244281b9f12d1c544384c98540/hardware/Serial-7-Segment-Shield.brd) using EagleUp on 03/23/16 at 12:35:48 -06:00
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Serial_7_Segment_Shield/ed313bc0a88e3b244281b9f12d1c544384c98540/hardware/Serial-7-Segment-Shield.brd) using EagleUp on 03/23/16 at 21:56:21 -06:00

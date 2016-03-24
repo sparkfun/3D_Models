@@ -1,1 +1,1 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/Serial7SegmentDisplay/83b7d0477c25d1ce6c2d9c247279c855c390ae13/hardware/Serial-7-Segment-Display.brd) using EagleUp on 03/23/16 at 15:20:18 -06:00
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Serial7SegmentDisplay/83b7d0477c25d1ce6c2d9c247279c855c390ae13/hardware/Serial-7-Segment-Display.brd) using EagleUp on 03/23/16 at 19:48:10 -06:00

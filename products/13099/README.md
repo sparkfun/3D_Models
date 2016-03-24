@@ -1,1 +1,1 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/Rotary_Switch_Potentiometer/7fd16f4b7412bc06a416ac682d4e48c541601a0f/Hardware/Rotary_Switch_Potentiometer.brd) using EagleUp on 03/23/16 at 17:24:38 -06:00
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Rotary_Switch_Potentiometer/7fd16f4b7412bc06a416ac682d4e48c541601a0f/Hardware/Rotary_Switch_Potentiometer.brd) using EagleUp on 03/23/16 at 21:25:00 -06:00

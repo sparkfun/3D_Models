@@ -1,1 +1,1 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/ADXL345_Breakout/610d4063ffe2d1a49ed414df413b068e602b9f07/Hardware/ADXL345_Breakout.brd) using EagleUp on 01/31/15 at 21:18:02 -07:00
+Models generated from [these file(s)](https://raw.github.com/sparkfun/ADXL345_Breakout/610d4063ffe2d1a49ed414df413b068e602b9f07/Hardware/ADXL345_Breakout.brd) using EagleUp on 03/23/16 at 23:03:09 -06:00

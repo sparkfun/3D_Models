@@ -1,1 +1,1 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/ITG-3200_Breakout/945ebacb3200b2578d39440364553252281d3b6f/Hardware/Triple_axis_digital_-_output_gyro_ITG-3200_Breakout.brd) using EagleUp on 03/23/16 at 15:31:12 -06:00
+Models generated from [these file(s)](https://raw.github.com/sparkfun/ITG-3200_Breakout/945ebacb3200b2578d39440364553252281d3b6f/Hardware/Triple_axis_digital_-_output_gyro_ITG-3200_Breakout.brd) using EagleUp on 03/23/16 at 19:59:21 -06:00
