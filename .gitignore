@@ -19,3 +19,6 @@ Desktop.ini
 
 # Sketchup backup stuff
 *.skb
+
+# DIE, tmp files
+/products/*/tmp/*
