@@ -1,1 +1,1 @@
-Models generated from [these file(s)](S:\Eagle_stuffs\MAX31855K_Thermocouple_Breakout-master\MAX31855K_Thermocouple_Breakout-master\Hardware\SparkFun_Thermocouple_Breakout.brd) using EagleUp on 11/17/15 at 10:45:37 -07:00
+Models generated from [these file(s)](https://raw.github.com/sparkfun/MAX31855K_Thermocouple_Breakout/30e4d01ee692478a02cfccd523af18fc175da58a/Hardware/SparkFun_Thermocouple_Breakout.brd) using EagleUp on 03/23/16 at 12:51:32 -06:00

@@ -1,1 +1,1 @@
-Models generated from [these file(s)](S:\Eagle_stuffs\Photon_P1_R3-master\Photon_P1_R3-master\Hardware\sparkfun-photon_p1.brd) using EagleUp on 08/25/15 at 14:15:04 -06:00
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Photon_RedBoard/a5a955162247843037e028a99ac19c8a16162712/Hardware/sparkfun-photon-redboard.brd) using EagleUp on 03/23/16 at 12:59:01 -06:00

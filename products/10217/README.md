@@ -1,1 +1,1 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/Lipo_Charger_Basic-microUSB/73710c1269a31963b9878e43a2877c6df5e5454a/Hardware/SparkFun_Lipo_Charger_Basic-microUSB.brd) using EagleUp on 02/17/16 at 16:08:22 -07:00
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Lipo_Charger_Basic-microUSB/73710c1269a31963b9878e43a2877c6df5e5454a/Hardware/SparkFun_Lipo_Charger_Basic-microUSB.brd) using EagleUp on 03/23/16 at 14:50:38 -06:00

@@ -1,1 +1,1 @@
-Models generated from [these file(s)](S:\Eagle_stuffs\SparkFun_Stepoko-master\SparkFun_Stepoko-master\Hardware\SparkFun_Stepoko.brd) using EagleUp on 09/29/15 at 17:22:26 -06:00
+Models generated from [these file(s)](https://raw.github.com/sparkfun/SparkFun_Stepoko/ecdb16e9ac817cc71cdfbbecc6939dee68d113e7/Hardware/SparkFun_Stepoko.brd) using EagleUp on 03/23/16 at 17:53:35 -06:00

@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"EIA3216","value":"10uF"},{"name":"0402-CAP","value":"0.1uF"},{"name":"0402-CAP","value":"4.7uF"},{"name":"SOD-323","value":"PMEG4005EJ"},{"name":"LED-0603","value":"RED"},{"name":"LED-0603","value":"GREEN"},{"name":"LED-0603","value":"YELLOW"},{"name":"0402-RES","value":"1k"},{"name":"0402-RES","value":"10k"},{"name":"0402-RES","value":"100k"},{"name":"RN41","value":"RN-42-HID"},{"name":"SOT23-5","value":"MIC5205-3.3V"},{"name":"SOT23-5","value":"MCP73831"}]}
+"component_packages": [{"name":"EIA3216","value":"10uF"},{"name":"0402-CAP","value":"0.1uF"},{"name":"0402-CAP","value":"4.7uF"},{"name":"SOD-323","value":"PMEG4005EJ"},{"name":"JST-2-SMD","value":""},{"name":"LED-0603","value":"RED"},{"name":"LED-0603","value":"GREEN"},{"name":"LED-0603","value":"YELLOW"},{"name":"0402-RES","value":"1k"},{"name":"0402-RES","value":"10k"},{"name":"0402-RES","value":"100k"},{"name":"RN41","value":"RN-42-HID"},{"name":"SOT23-5","value":"MIC5205-3.3V"},{"name":"SOT23-5","value":"MCP73831"}]}

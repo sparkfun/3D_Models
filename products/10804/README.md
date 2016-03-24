@@ -1,1 +1,1 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/Breadboard_Power_Supply_Stick_5V-3.3V/v13/Hardware/Breadboard Power Supply - SMD v13.brd) using EagleUp on 01/30/15 at 19:23:45 -07:00
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Breadboard_Power_Supply_Stick_5V-3.3V/v13/Hardware/Breadboard Power Supply - SMD v13.brd) using EagleUp on 03/23/16 at 14:59:01 -06:00

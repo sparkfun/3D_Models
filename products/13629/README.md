@@ -1,1 +1,1 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/Photon_IMU_Shield/c2b3f417f7c8a87c877b5eee2ecf5de6696cf868/Hardware/Photon-IMU-Shield.brd) using EagleUp on 08/26/15 at 14:41:04 -06:00
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Photon_IMU_Shield/c2b3f417f7c8a87c877b5eee2ecf5de6696cf868/Hardware/Photon-IMU-Shield.brd) using EagleUp on 03/23/16 at 14:24:40 -06:00
