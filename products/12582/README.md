@@ -1,1 +1,1 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/BlueSMiRF/cfc5c9b555823cf10df31fecaf7447f253b68369/Hardware/BlueSMiRF-ChipAnt.brd) using EagleUp on 01/30/15 at 22:26:06 -07:00
+Models generated from [these file(s)](https://raw.github.com/sparkfun/BlueSMiRF/cfc5c9b555823cf10df31fecaf7447f253b68369/Hardware/BlueSMiRF-ChipAnt.brd) using EagleUp on 03/23/16 at 15:38:34 -06:00

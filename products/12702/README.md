@@ -1,1 +1,1 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/Solderable_Breadboard_Mini/de9c4c1299e8130a71acfdd53d6c335434d76b6e/hardware/solderable_breadboard_mini.brd) using EagleUp on 01/29/15 at 19:40:14 -07:00
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Solderable_Breadboard_Mini/de9c4c1299e8130a71acfdd53d6c335434d76b6e/hardware/solderable_breadboard_mini.brd) using EagleUp on 03/23/16 at 15:42:55 -06:00

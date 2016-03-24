@@ -1,1 +1,1 @@
-Models generated from [these file(s)](S:\Git\HX711-Load-Cell-Amplifier-master\HX711-Load-Cell-Amplifier-master\hardware\SparkFun HX711 Load Cell.brd) using EagleUp on 04/02/15 at 17:46:31 -06:00
+Models generated from [these file(s)](https://raw.github.com/sparkfun/HX711-Load-Cell-Amplifier/1e5954911f0c19f9393b2342c992d9837403bf46/hardware/SparkFun%20HX711%20Load%20Cell.brd) using EagleUp on 03/23/16 at 12:51:12 -06:00

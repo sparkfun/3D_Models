@@ -1,1 +1,1 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/Spectrum_Shield/HW_1.5_FW_1.0/Hardware/Spectrum_Shield.brd) using EagleUp on 03/27/15 at 9:57:03 -06:00
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Spectrum_Shield/415dbadc76af4909902b382a3e98be77a9b26695/Hardware/Spectrum_Shield.brd) using EagleUp on 03/23/16 at 17:26:52 -06:00

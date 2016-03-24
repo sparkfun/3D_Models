@@ -1,4 +1,4 @@
-{"repository":"https://raw.github.com/sparkfun/MagJack_Breakout/HW_v1.2/Hardware/MagJack_Breakout.brd",
+{"repository":"https://raw.github.com/sparkfun/MagJack_Breakout/9afe8d1997268330868b6dd9cc5fb229242f9900/Hardware/MagJack_Breakout.brd",
 "resolution":"600",
 "outline_layer":"20",
 "silk_layer":"place",
@@ -10,4 +10,4 @@
 "trace_color":"0xE2012D",
 "plating":"silver",
 "silk":"ivory",
-"component_packages": [{"name":"MAGJACK","value":"MAGJACK-NOLABELS"},{"name":"1X13_LOCK","value":"M13LOCK"}]}
+"component_packages": [{"name":"MAGJACK","value":"MAGJACK-NOLABELS"}]}

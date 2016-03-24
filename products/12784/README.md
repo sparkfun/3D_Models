@@ -1,1 +1,1 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/ToF_Range_Finder_Breakout-VL6180/HW_v1.0/Hardware/VL6180_Breakout.brd) using EagleUp on 02/13/15 at 14:47:16 -07:00
+Models generated from [these file(s)](https://raw.github.com/sparkfun/ToF_Range_Finder_Breakout-VL6180/818e280b3d483f1d5c5e5f00ea2d25e2ced1bdf9/Hardware/SparkFun_VL6180_Breakout.brd) using EagleUp on 03/23/16 at 15:55:56 -06:00

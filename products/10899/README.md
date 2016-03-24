@@ -1,1 +1,1 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/LilyTiny_LilyTwinkle/1ad1c308d10bacb3280375531c3570b0d6154398/Hardware/LilyTiny.brd) using EagleUp on 02/05/15 at 0:19:11 -07:00
+Models generated from [these file(s)](https://raw.github.com/sparkfun/LilyTiny_LilyTwinkle/1ad1c308d10bacb3280375531c3570b0d6154398/Hardware/LilyTiny.brd) using EagleUp on 03/23/16 at 15:12:00 -06:00
