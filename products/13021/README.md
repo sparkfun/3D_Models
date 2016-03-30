@@ -1,1 +1,0 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/MagJack_Breakout/9afe8d1997268330868b6dd9cc5fb229242f9900/Hardware/MagJack_Breakout.brd) using EagleUp on 03/23/16 at 20:48:02 -06:00

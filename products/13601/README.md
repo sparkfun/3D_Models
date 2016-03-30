@@ -1,1 +1,0 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/SX1509_IO-Expander/a7c7c89eae0aafe67e0bef6855607dd772ff01ca/Hardware/SparkFun-SX1509-Breakout.brd) using EagleUp on 03/23/16 at 22:24:12 -06:00

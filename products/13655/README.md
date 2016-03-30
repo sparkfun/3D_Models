@@ -1,1 +1,0 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/SOIC8-DIP_Adapter/27e7b1c07a0751581aaea7e905e7a6ebe3b081d1/Hardware/SparkFun_SOIC8-DIP-Adapter.brd) using EagleUp on 03/23/16 at 22:29:04 -06:00

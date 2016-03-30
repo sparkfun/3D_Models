@@ -1,1 +1,0 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/ML8511_Breakout/27948f0e2a1bf2f07752159c8a3edc83a6a2640a/hardware/ML8511_Breakout.brd) using EagleUp on 03/23/16 at 20:21:44 -06:00

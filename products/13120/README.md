@@ -1,1 +1,0 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/MG2639_Cellular_Shield/578bd344b3791507581edab2fedafe1f617a0533/Hardware/MG2639%20Cellular%20Shield.brd) using EagleUp on 03/23/16 at 21:31:49 -06:00

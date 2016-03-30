@@ -1,1 +1,0 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/Photon_OLED_Shield/1b7656c1771fde70793582413877627b53c43581/Hardware/Photon_Micro_OLED_Shield.brd) using EagleUp on 03/23/16 at 22:26:06 -06:00
