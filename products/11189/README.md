@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/MAX3232_Breakout/2ceb7038eb632e4c638f97bced79576ecec5fb0b/Hardware/SparkFun_MAX3232_Breakout.brd) using EagleUp on 03/30/16 at 13:39:33 -06:00
