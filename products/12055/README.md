@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/TSL2561_Luminosity_Sensor_BOB/e268f64ead7fa61e7908f3dd0d1a96c3d87b22ce/hardware/TSL2561 Luminosity Sensor BOB.brd) using EagleUp on 03/23/16 at 19:59:59 -06:00

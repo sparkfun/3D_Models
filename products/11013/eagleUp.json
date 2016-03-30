@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/LilyPad_MP3_Player/bf04f946d5bd08723b794b7d8461a7d445c0ff33/hardware/LilyPad-MP3-v15a.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":0.8,
+"board_color":"0x40243D",
+"trace_color":"0x5A3158",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0402-CAP","value":"0.1uF"},{"name":"EIA3528","value":"47uF"},{"name":"0402-CAP","value":"1uF"},{"name":"EIA3216","value":"10uF"},{"name":"0402-CAP","value":"4.7uF"},{"name":"0402-CAP","value":"22pF"},{"name":"0402-CAP","value":"10nF"},{"name":"0402-CAP","value":"47nF"},{"name":"0402-CAP","value":"470pF"},{"name":"0402-CAP","value":"1nF"},{"name":"JST-2-SMD","value":"LiPo"},{"name":"1X06-SMD","value":"FTDI"},{"name":"2X3-NS","value":"PROG"},{"name":"AUDIO-JACK-3_5MM-SMD","value":"HEADPHONE"},{"name":"LED-0603","value":"RED"},{"name":"LED-0603","value":"YELLOW"},{"name":"0402-RES","value":"2K"},{"name":"0402-RES","value":"1K"},{"name":"0402-RES","value":"10K"},{"name":"0402-RES","value":"1M"},{"name":"0402-RES","value":"100k"},{"name":"0402-RES","value":"330"},{"name":"0402-RES","value":"20"},{"name":"0402-RES","value":"10"},{"name":"0402-RES","value":"4.7K"},{"name":"AYZ0202","value":"POWER"},{"name":"ENCODER_LED_3","value":"EC12PLRGBSDVBF-D"},{"name":"PETAL-LONG-1-2SIDE","value":"TRIG2/SDA"},{"name":"PETAL-LONG-1-2SIDE","value":"TRIG3/SCL"},{"name":"PETAL-LONG-1-2SIDE","value":"TRIG4/TXO"},{"name":"PETAL-LONG-1-2SIDE","value":"TRIG5/RXI"},{"name":"PETAL-LONG-1-2SIDE","value":"SPKL-"},{"name":"PETAL-LONG-1-2SIDE","value":"SPKL+"},{"name":"PETAL-LONG-1-2SIDE","value":"SPKR-"},{"name":"PETAL-LONG-1-2SIDE","value":"SPKR+"},{"name":"PETAL-LONG-1-2SIDE","value":"3.3V"},{"name":"PETAL-LONG-1-2SIDE","value":"VIN"},{"name":"PETAL-LONG-1-2SIDE","value":"GND"},{"name":"PETAL-LONG-1-2SIDE","value":"TRIG1"},{"name":"TQFP32-08","value":"ATMEGA328"},{"name":"SOT23-5","value":"MCP73831"},{"name":"SOT23-5","value":"MIC5219 3.3V"},{"name":"LQFP-48","value":"VS1053"},{"name":"SC70","value":"SP6214 1.8V"},{"name":"QFN-20-0_5MM","value":"TPA2016D2RTJ"},{"name":"MICRO-SD-SOCKET-PP","value":"USD-SOCKET"},{"name":"RESONATOR-SMD","value":"8MHz"},{"name":"CRYSTAL-SMD-5X3","value":"12.288MHz"}]}

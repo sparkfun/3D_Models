@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/XBee_Explorer_Regulated/aab1575ed3bcba9a5bd9cb0c19d7bd47de4aeb4f/Hardware/XBee-Regulated.brd) using EagleUp on 03/23/16 at 19:47:07 -06:00

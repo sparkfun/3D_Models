@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/Digital_Temperature_Sensor_Breakout_-_TMP102/285311fbc8e8c0a25b406198d57e324ab6827ccc/Hardware/Digital Temperature Sensor Breakout - TMP102.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"0603-RES","value":"1K"},{"name":"SOT563-2","value":"TMP1021:1"}]}

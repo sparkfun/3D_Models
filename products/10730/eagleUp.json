@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/LilyPad_Coin_Cell_Battery_Holder-20mm/V_1.9/Hardware/SparkFun_LilyPad_Coincell-Battery.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":0.8,
+"board_color":"0x40243D",
+"trace_color":"0x5A3158",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"BATTCON_20MM_4LEGS_OVERPASTE","value":"20mm coincell"}]}

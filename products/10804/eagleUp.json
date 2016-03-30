@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/Breadboard_Power_Supply_Stick_5V-3.3V/v13/Hardware/Breadboard Power Supply - SMD v13.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"EIA7343","value":"100uF"},{"name":"EIA3216","value":"10uF"},{"name":"0603-CAP","value":"0.1uF"},{"name":"SMA-DIODE","value":"1N4001"},{"name":"PTC-1206","value":"PTCSMD"},{"name":"POWER_JACK_SMD","value":"POWER_JACKSMD"},{"name":"LED-1206","value":"Power"},{"name":"0603-RES","value":"240"},{"name":"0603-RES","value":"390"},{"name":"0603-RES","value":"330"},{"name":"AYZ0202","value":"On/Off"},{"name":"AYZ0202","value":"Voltage"},{"name":"SOT223","value":"V_REG_317SMD"}]}

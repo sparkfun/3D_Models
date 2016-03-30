@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/Monster_Moto_Shield/Hv12Fv10/Hardware/MonsterMoto-Shield-v12.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0402-CAP","value":"33nF"},{"name":"PANASONIC_G","value":"560uF"},{"name":"SOD-323","value":"BZT52"},{"name":"1X02_XTRA_BIG","value":"M1"},{"name":"1X02_XTRA_BIG","value":"M2"},{"name":"1X02_XTRA_BIG","value":"VCC"},{"name":"LED-0603","value":"RED"},{"name":"LED-0603","value":"GREEN"},{"name":"DPAK","value":"FDD8580"},{"name":"0402-RES","value":"1K"},{"name":"0402-RES","value":"10K"},{"name":"0402-RES","value":"1.5K"},{"name":"0402-RES","value":"4.7K"},{"name":"0402-RES","value":"100K"},{"name":"0402-RES","value":"330"},{"name":"VNH2SP30","value":"VNH2SP30"}]}

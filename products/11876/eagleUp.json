@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/Big_Easy_Driver/92a5ede208db1e95ab6ae69865eb16d853c3f8fe/Hardware/BigEasyDriver.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0603-CAP","value":".1uF"},{"name":"0603-CAP","value":"1uF"},{"name":"0603-CAP","value":".1uf"},{"name":"0603-CAP","value":".22uF"},{"name":"PANASONIC_D","value":"47uF"},{"name":"DO-214AC","value":"B340A-13-F"},{"name":"QFN-28-5MM_ALT1","value":"A4983ALT1"},{"name":"SCHMALZHAUS_SOT89","value":"LM317L"},{"name":"OSHW_FILLX100_NOTEXT","value":"OSHW_LOGO_FILLX0100-NT"},{"name":"LED-0603","value":"YELLOW"},{"name":"0603-RES","value":"20K"},{"name":"0603-RES","value":"390"},{"name":"0603-RES","value":"330"},{"name":"0603-RES","value":"240"},{"name":"0603-RES","value":"1K"},{"name":"0603-RES","value":"2.49K"},{"name":"TRIMPOT-3MM","value":"10K"},{"name":"R2010","value":".11"},{"name":"P1-13","value":"TPPAD1-13"},{"name":"PAD-0_008","value":"PAD"}]}

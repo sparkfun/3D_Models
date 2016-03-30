@@ -1,0 +1,15 @@
+{
+	"repository":    "https://raw.githubusercontent.com/sparkfun/MaKeyMaKey/6b42f77468df7eeb4b3a342be6b915f4d0e8de0e/Hardware/makey_makey.brd",
+	"resolution":    "600",
+	"outline_layer": "20",
+	"silk_layer":    "place",
+	"no_parts":      0,
+	"no_images":     0,
+	"skip_vias":     0,
+	"thickness":     1.6,
+	"board_color":   "0x98041C",
+	"trace_color":   "0xE2012D",
+	"plating":       "silver",
+	"silk":          "ivory",
+	"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"0603-CAP","value":"1uF"},{"name":"0603-CAP","value":"22pF"},{"name":"EIA3216","value":"10uF"},{"name":"PTC-1206-WIDE","value":"500mA"},{"name":"1X06_SMD_STRAIGHT_COMBO","value":""},{"name":"LED-1206-BOTTOM","value":"GREEN"},{"name":"LED-0603","value":"RED"},{"name":"LED-0603","value":"GREEN"},{"name":"0603-RES","value":"22"},{"name":"0603-RES","value":"10K"},{"name":"0603-RES","value":"22M"},{"name":"0603-RES","value":"1k"},{"name":"0603-RES","value":"330"},{"name":"TQFP44","value":"ATMEGA32U4TQFP"},{"name":"USB-MINIB","value":"USBSMD"},{"name":"CRYSTAL-SMD-5X3","value":"16MHz"}]
+}

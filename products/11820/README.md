@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/WS2812_Breakout/637214bce9557bb25c06184c2c5f7b21d3bed591/Hardware/ws2812-Breakout.brd) using EagleUp on 03/23/16 at 19:56:41 -06:00

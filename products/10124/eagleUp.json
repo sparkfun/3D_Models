@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/RS-485_Breakout/f935a58545d7c8349fc77e76ef60ffe8573419c0/Hardware/RS485_Breakout.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"RJ45-8","value":"RJ45-8PTH"},{"name":"LED-0603","value":"Green"},{"name":"0603-RES","value":"330"},{"name":"0603-RES","value":"220"},{"name":"SO08","value":"RS485SOIC"}]}

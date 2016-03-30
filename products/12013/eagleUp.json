@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/Touch_Shield/72ddecc3eb821c48684752fa79d1a99ca4ee542e/Hardware/Touch_Shield.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"QFN-20-0_4MM-V2","value":"MPR121"},{"name":"SOT23-3","value":"BSS138"},{"name":"0603-RES","value":"75k"},{"name":"0603-RES","value":"10k"},{"name":"0603-RES","value":"10K"},{"name":"UNO_R3_SHIELD","value":"ARDUINO_R3_SHIELD"}]}

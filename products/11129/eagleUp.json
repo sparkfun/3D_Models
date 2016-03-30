@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/Si4707_Breakout/d41aa960a7256e130793c14b7df69723c7cccb7d/hardware/Si4707-Breakout.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0402-CAP","value":"22nF"},{"name":"0402-CAP","value":"0.1uF"},{"name":"0402-CAP","value":"0.39uF"},{"name":"0402-CAP","value":"22pF"},{"name":"EIA3528","value":"47uF"},{"name":"SOT23-3","value":"CM1213"},{"name":"1X08","value":"OUTPUT"},{"name":"0603","value":"56nH"},{"name":"C0402","value":"Ferrite 2.5k"},{"name":"0402-RES","value":"2k"},{"name":"0402-RES","value":"4.7k"},{"name":"0402-RES","value":"10k"},{"name":"0402-RES","value":"20k"},{"name":"0402-RES","value":"47k"},{"name":"SPARKFUN_SO08","value":"TPA6111"},{"name":"CRYSTAL-32KHZ-SMD","value":"32.768kHz"}]}

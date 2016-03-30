@@ -1,0 +1,15 @@
+{
+	"repository":    "http://raw.github.com/sparkfun/Arduino_Pro_Mini_328/365f073db730b88cd42f1180813b5a66018635e8/Hardware/Arduino-Pro-Mini.brd",
+	"resolution":    "600",
+	"outline_layer": "20",
+	"silk_layer":    "place",
+	"no_parts":      0,
+	"no_images":     0,
+	"skip_vias":     0,
+	"thickness":     1.6,
+	"board_color":   "0x092356",
+	"trace_color":   "0x133775",
+	"plating":       "silver",
+	"silk":          "ivory",
+	"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"EIA3216","value":"10uF"},{"name":"0603-LED-ALT1","value":"Green"},{"name":"0603-LED-ALT1","value":"Red"},{"name":"RESONATOR-SMD-1_1","value":"8/16/20MHz"},{"name":"0603-RES","value":"10K"},{"name":"0603-RES","value":"330"},{"name":"TACTILE-SWITCH-SMD-ALT01","value":"Reset"},{"name":"TQFP32-08","value":"ATMEGA328"},{"name":"SOT23-5","value":"MIC5205"}]
+}

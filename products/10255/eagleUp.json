@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/LiPower_Boost_Converter/0221ff7c2471faae7abc370ba76796d61dbf307a/HARDWARE/Li_Power_Boost_Converter.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"1206","value":"10uF"},{"name":"0603-CAP","value":"0.1uF"},{"name":"0805","value":"22uF"},{"name":"JST-2-SMD","value":"JST"},{"name":"CDRH2D09","value":"4.7uH, 1.2A"},{"name":"0603-RES","value":"2M"},{"name":"0603-RES","value":"220k"},{"name":"0603-RES","value":"1.2M"},{"name":"QFN-10_PAD","value":"TPS61200"}]}

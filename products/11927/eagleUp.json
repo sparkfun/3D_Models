@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/BC127_Breakout_Board/80aca3bb92b5857b144fc7b2d6786cd0d825a3fd/Hardware/BC127_Breakout.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"EIA3216","value":"10uF"},{"name":"0805","value":"1uF"},{"name":"0603-CAP","value":"4.7uF"},{"name":"LED-0603","value":"GREEN"},{"name":"LED-0603","value":"RED"},{"name":"LED-0603","value":"BLUE"},{"name":"SMA-DIODE","value":"BA340A"},{"name":"SOT23","value":"MOSFET-NCHANNELBSS138"},{"name":"SOT23","value":"MMBT4403"},{"name":"0603-RES","value":"10K"},{"name":"0603-RES","value":"240"},{"name":"0805","value":"0.75"},{"name":"0805","value":"0.22"},{"name":"BC127_XTRA_PASTE","value":"BC127"},{"name":"SOT23-5","value":"MIC5219 3.3V"}]}
