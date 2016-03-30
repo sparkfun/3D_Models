@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/Blynk_Board_ESP8266/7cffb5cb9611701924135d2f536d607fa3ea1583/Hardware/SparkFun-Blynk-Board-ESP8266.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0603-CAP","value":"10uF"},{"name":"0603-CAP","value":"0.1uF"},{"name":"0603-CAP","value":"10pF"},{"name":"0603-CAP","value":"4.7uF"},{"name":"0805-CAP","value":"1.0uF"},{"name":"0603-CAP","value":"5.6pF"},{"name":"0603-CAP","value":"2.2uF"},{"name":"0603-CAP","value":"47pF"},{"name":"LED-0603","value":"Yellow"},{"name":"SOD-323","value":"BAT20J"},{"name":"LED-0603","value":"BLUE"},{"name":"WS2812B","value":"WS2812"},{"name":"LED-0603","value":"RED"},{"name":"PTC-1206","value":"500mA"},{"name":"SO08","value":"LMV358"},{"name":"JST-2-PTH","value":"JST_2"},{"name":"JST-3-PTH-VERT","value":"JST-3"},{"name":"USB-B-MICRO-SMD_V03","value":"USB"},{"name":"JST-4-PTH-VERT","value":"JST-4"},{"name":"SFE_LOGO_NAME_3","value":"SFE_LOGO_NAME.3_INCH"},{"name":"SOT23-3","value":"2.5A/30V"},{"name":"SOT23-3_1","value":"MMBT2222A"},{"name":"0603-RES","value":"12k"},{"name":"0603-RES","value":"1K"},{"name":"0603-RES","value":"22K"},{"name":"0603-RES","value":"10K"},{"name":"0603-RES","value":"2.0k"},{"name":"0603-RES_1","value":"10K"},{"name":"0603-RES","value":"200"},{"name":"0603-RES","value":"330"},{"name":"0603-RES","value":"27"},{"name":"0603-RES","value":"4.7K"},{"name":"TACTILE-SWITCH-SMD","value":"GP0"},{"name":"SOT23-5","value":"MCP73831"},{"name":"QFN32","value":"ESP8266"},{"name":"SOT23-5","value":"AP2112K-3.3V"},{"name":"SSOP20_L","value":"FT231XS-U"},{"name":"SOIC-8","value":"W25Q32FVSS"},{"name":"SI7021","value":"SI7021"},{"name":"CRYSTAL-SMD-3_2X2_5","value":"26MHz"}]}
