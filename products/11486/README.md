@@ -1,1 +1,0 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/MPU-9150_Breakout/ec74536b7178e422a0e76cd3beac0497361280f1/hardware/mpu-9150_breakout.brd) using EagleUp on 03/23/16 at 19:50:16 -06:00

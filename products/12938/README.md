@@ -1,1 +1,0 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/Si4703_FM_Tuner_Evaluation_Board/66ecc3cebbfffb684e46d2dbd1f40ab19165d924/Hardware/SparkFun_Si4703_Eval.brd) using EagleUp on 03/23/16 at 20:46:19 -06:00

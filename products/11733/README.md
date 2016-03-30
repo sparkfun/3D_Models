@@ -1,1 +1,0 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/SN74HC165-Shift-In-Breakout/6226d5a1e6d2ac15f370d3777da89a3ce9dd4f10/hardware/SN74HC165 Shift-In Breakout-v12.brd) using EagleUp on 03/23/16 at 19:53:45 -06:00

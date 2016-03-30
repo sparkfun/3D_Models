@@ -1,1 +1,0 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/MAX31855K_Thermocouple_Breakout/30e4d01ee692478a02cfccd523af18fc175da58a/Hardware/SparkFun_Thermocouple_Breakout.brd) using EagleUp on 03/23/16 at 22:09:31 -06:00

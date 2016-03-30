@@ -1,1 +1,0 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/SparkFun_Stepoko/ecdb16e9ac817cc71cdfbbecc6939dee68d113e7/Hardware/SparkFun_Stepoko.brd) using EagleUp on 03/23/16 at 21:52:56 -06:00

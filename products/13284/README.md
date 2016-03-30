@@ -1,1 +1,0 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/LSM9DS1_Breakout/f6f446785e7b84c9c0337efa93dc794b745047b9/Hardware/SparkFun-LSM9DS1-Breakout.brd) using EagleUp on 03/23/16 at 22:12:20 -06:00
