@@ -1,1 +1,0 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/Big_Easy_Driver/03ac3b1ac708fa5d0e78873ebd7f6665d2f3b7e6/Hardware/BigEasyDriver.brd) using EagleUp on 03/23/16 at 20:38:49 -06:00

@@ -1,1 +1,0 @@
-Models generated from [these file(s)](http://raw.github.com/sparkfun/FT232RL_USB_Breakout/54b99c92ad6b70c9a0b2f86ae6260e1fe7cc527a/Hardware/FT232R-Breakout.brd) using EagleUp on 03/23/16 at 20:24:41 -06:00

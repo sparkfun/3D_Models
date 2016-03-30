@@ -1,1 +1,0 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/MIDI_Shield/52c9e162b502a745e42c55608d81d958764aa724/Hardware/SparkFun_MIDI_Shield.brd) using EagleUp on 03/23/16 at 20:44:03 -06:00

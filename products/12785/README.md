@@ -1,1 +1,0 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/ToF_Range_Finder_Sensor-VL6180/122d5527ecb044d3a4ecf9f7f5930f41a7e58d24/Hardware/SparkFun_VL6180_Sensor.brd) using EagleUp on 03/23/16 at 20:36:32 -06:00

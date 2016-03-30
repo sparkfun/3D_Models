@@ -1,1 +1,0 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/APDS-9960_RGB_and_Gesture_Sensor/5eebe9392b4d3f1e083f184159849136f4a5d2e2/Hardware/SparkFun_APDS-9960_RGB_and_Gesture_Sensor.brd) using EagleUp on 03/23/16 at 20:36:58 -06:00

@@ -1,1 +1,0 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/ProtoBoard_Wombat-PTH/a073c31a93d18efa4350e417ba7ffaaf2ffe0175/Hardware/SparkFun_Protoboard-PTH-v14.brd) using EagleUp on 03/23/16 at 22:56:12 -06:00

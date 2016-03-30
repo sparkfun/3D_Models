@@ -1,1 +1,0 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/FTDI_SmartBasic/d28d3900dc187754a09b0528c43011fdfe7f919c/Hardware/FTDI_SmartBasic.brd) using EagleUp on 03/23/16 at 20:45:12 -06:00

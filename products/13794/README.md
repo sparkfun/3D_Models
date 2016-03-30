@@ -1,1 +1,0 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/Blynk_Board_ESP8266/7cffb5cb9611701924135d2f536d607fa3ea1583/Hardware/SparkFun-Blynk-Board-ESP8266.brd) using EagleUp on 03/30/16 at 10:46:52 -06:00

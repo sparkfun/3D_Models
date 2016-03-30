@@ -1,1 +1,0 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/FT231X_Breakout/7b2e0abf0f44da5d730526eb4f6bf0c930819607/hardware/ft231x-breakout.brd) using EagleUp on 03/23/16 at 19:54:21 -06:00
