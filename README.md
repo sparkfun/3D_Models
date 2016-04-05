@@ -93,7 +93,7 @@ Hardness: 50
 ```
 _Textured Material_)(red)
 ```
-Diffuse:  #FFFFFF Intensity: 1.0
+Diffuse:  #FF2835 Intensity: 0.8
 Specular: #98041C Intensity: 0.5
 Hardness: 50
 ```
@@ -121,5 +121,12 @@ Hardness: 25
 ````
 Diffuse:  #8A8A8A Intensity: 1.0
 Specular: #FFFFFF Intensity: 0.25
+Hardness: 50
+```
+
+#### Yellow Plastic (Li-ion Battery)
+````
+Diffuse:  #CC9D00 Intensity: 0.8
+Specular: #FFD700 Intensity: 0.5
 Hardness: 50
 ```
