@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/MegaShield_Kit/6a8d8c5b322ff01a5e9da841db1263416c2afada/Hardware/Mega_Shield-v13.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"1X16_LOCK","value":"M16LOCK"},{"name":"LED5MM","value":"Red"},{"name":"LED5MM","value":"Green"},{"name":"AXIAL-0_3","value":"330"},{"name":"AXIAL-0_3","value":"10k"}]}
