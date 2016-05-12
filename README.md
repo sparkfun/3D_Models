@@ -130,3 +130,24 @@ Diffuse:  #CC9D00 Intensity: 0.8
 Specular: #FFD700 Intensity: 0.5
 Hardness: 50
 ```
+
+#### SMD Resistor Brown
+```
+Diffuse:  #8F5A24 Intensity: 0.8
+Specular: #FFB730 Intensity: 0.5
+Hardness: 100
+```
+
+#### Component Black
+```
+Diffuse:  #111111 Intensity: 0.8
+Specular: #222222 Intensity: 0.5
+Hardness: 100
+```
+
+#### Green Protoboard
+```
+Diffuse:  #00703D Intensity: 0.8
+Specular: #0A5D19 Intensity: 0.5
+Hardness: 100
+```
