@@ -1,0 +1,66 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : Open CASCADE IGES processor 6.5
+Receiving System Product I.D.: 
+File Name                    : Filename.iges
+Sending System               : Open CASCADE 6.5
+Preprocessor Version         : Open CASCADE IGES processor 6.5
+File Creation Date           : 20141113.144511
+Model Creation Date          : 20141113.144511
+Units                        : INCH
+Model Space Scale            : 1
+Author                       : james
+Organization                 : 
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:              10
+  Highest number of significant digits:                     11
+  Average number of significant digits:                 5.9274
+  Maximum distance to origin:                          19.9841
+  Minimum distance to origin:                                0
+  Effective number of significant digits:                   11
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+100  Arc                                            198       198
+102  Composite curve                                116       116
+110  Line                                           356       356
+120  Surface of revolution                           35        35
+124  Transformation matrix                          227       227
+126  Rational B-spline curve                         44        44
+128  Rational B-spline surface                        9         9
+142  Curve on a parametric surface                   58        58
+144  Trimmed parametric surface                      44        44
+402  Associativity instance                           1         1
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       1
+Surface feature(s)                     0
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Monday, May 16, 2016 12:16:37
+Finish time: Monday, May 16, 2016 12:16:39
+Processing time: 0 days, 00 hours, 00 mins, 02 secs
