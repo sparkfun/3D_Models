@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Electric_Imp_imp002_Breakout/b44b1ef037d04a43d7191193c10fcf69c3c91b1c/Hardware/Electric_Imp_imp002_Breakout.brd) using EagleUp on 06/01/16 at 16:28:06 -06:00
