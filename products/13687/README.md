@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/MyoWare_Cable_Shield/eabbc09f256cbef156872da410866baa5c9d728e/Hardware/MyoWare_Cable_Shield.brd) using EagleUp on 08/11/16 at 15:04:31 -06:00
