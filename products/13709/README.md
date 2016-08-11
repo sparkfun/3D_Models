@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/MyoWare_Proto_Shield/917d65cfabfe900f9de0e47afa5ce04b41e68d16/Hardware/MyoWare_Proto_Shield.brd) using EagleUp on 08/11/16 at 14:52:20 -06:00
