@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/MyoWare_Power_Shield/53c33694e4ba28a92d007ec9de8af492032fc640/Hardware/MyoWare_Power_Shield.brd) using EagleUp on 08/23/16 at 13:06:56 -06:00
