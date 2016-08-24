@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/MyoWare_LED_Shield/342ccb549dd26a439abcd21edbd19a68f97d6807/Hardware/MyoWare_LED_Shield.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0603-CAP","value":"4.7uF"},{"name":"LED-0603","value":"RED"},{"name":"LED-0603","value":"GREEN"},{"name":"LED_BAR_SMD","value":"SMA-B500"},{"name":"USB-B-MICRO-SMD_V03","value":""},{"name":"R0603","value":"6.49k"},{"name":"R0603","value":"7.5k"},{"name":"0603-RES","value":"330"},{"name":"0603-RES","value":"10K"},{"name":"SOT23-5","value":"MCP73831"},{"name":"PLCC20S","value":"LM3914V"}]}
