@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/MyoWare_LED_Shield/342ccb549dd26a439abcd21edbd19a68f97d6807/Hardware/MyoWare_LED_Shield.brd) using EagleUp on 08/24/16 at 15:11:23 -06:00
