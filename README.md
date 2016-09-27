@@ -151,3 +151,17 @@ Diffuse:  #00703D Intensity: 0.8
 Specular: #0A5D19 Intensity: 0.5
 Hardness: 100
 ```
+
+#### Brown Resistor
+```
+Diffuse:  #835715 Intensity: 0.8
+Specular: #AA630Ab Intensity: 0.5
+Hardness: 100
+```
+
+#### Brown Resistor
+```
+Diffuse:  #835715 Intensity: 0.8
+Specular: #AA630Ab Intensity: 0.5
+Hardness: 100
+```
