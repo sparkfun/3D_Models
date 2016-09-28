@@ -1,0 +1,63 @@
+{
+    "materials": [{
+        "opacity": 0.0,
+        "DbgIndex": 0,
+        "colorEmissive": [0.0,0.0,0.0],
+        "specularCoef": 50,
+        "depthWrite": true,
+        "blending": "NormalBlending",
+        "transparent": false,
+        "DbgName": "Material",
+        "colorAmbient": [0.0,0.0,0.0],
+        "colorDiffuse": [0.0,0.0,0.0],
+        "depthTest": true,
+        "shading": "phong",
+        "wireframe": false,
+        "DbgColor": 15658734,
+        "colorSpecular": [0.3235294222831726,0.3235294222831726,0.3235294222831726],
+        "visible": true
+    },{
+        "opacity": 0.0,
+        "DbgIndex": 1,
+        "colorEmissive": [0.0,0.0,0.0],
+        "specularCoef": 50,
+        "depthWrite": true,
+        "blending": "NormalBlending",
+        "transparent": false,
+        "DbgName": "Material.001",
+        "colorAmbient": [0.800000011920929,0.800000011920929,0.800000011920929],
+        "colorDiffuse": [0.800000011920929,0.800000011920929,0.800000011920929],
+        "depthTest": true,
+        "shading": "phong",
+        "wireframe": false,
+        "DbgColor": 15597568,
+        "colorSpecular": [0.45098042488098145,0.45098042488098145,0.45098042488098145],
+        "visible": true
+    },{
+        "opacity": 0.0,
+        "DbgIndex": 2,
+        "colorEmissive": [0.0,0.0,0.0],
+        "specularCoef": 100,
+        "depthWrite": true,
+        "blending": "NormalBlending",
+        "transparent": false,
+        "DbgName": "Material.002",
+        "colorAmbient": [0.6996079072297796,0.4423529690854693,0.17568629049787354],
+        "colorDiffuse": [0.6996079072297796,0.4423529690854693,0.17568629049787354],
+        "depthTest": true,
+        "shading": "phong",
+        "wireframe": false,
+        "DbgColor": 60928,
+        "colorSpecular": [0.5,0.3588235378265381,0.0941176563501358],
+        "visible": true
+    }],
+    "name": "10976Geometry",
+    "metadata": {
+        "version": 3,
+        "generator": "io_three",
+        "type": "Geometry",
+        "materials": 3,
+        "uvs": 0
+    },
+    "uvs": []
+}
