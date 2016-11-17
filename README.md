@@ -69,7 +69,7 @@ Diffuse:  #FFFFFF Intensity: 0.8
 Specular: #E6E6E6 Intensity: 0.5
 Hardness: 100
 ```
-
+b
 #### Black plastic (Headers, specifically)
 ```
 Diffuse:  #000000 Intensity: 0.8
@@ -155,13 +155,13 @@ Hardness: 100
 #### Brown Resistor
 ```
 Diffuse:  #835715 Intensity: 0.8
-Specular: #AA630Ab Intensity: 0.5
+Specular: #AA630A Intensity: 0.5
 Hardness: 100
 ```
 
-#### Brown Resistor
+#### Yellow Tinted SMD LED 
 ```
-Diffuse:  #835715 Intensity: 0.8
-Specular: #AA630Ab Intensity: 0.5
+Diffuse:  #CCC48E Intensity: 0.8
+Specular: #FFFAD1 Intensity: 0.5
 Hardness: 100
 ```
