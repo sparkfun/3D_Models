@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/LP55231_Breakout/8b965bdd2d9bf6f0738ad0e173574141c543f69f/Hardware/LP55231_breakout.brd) using EagleUp on 11/18/16 at 12:30:17 -07:00
