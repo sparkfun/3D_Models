@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/LP55231_Breakout/8b965bdd2d9bf6f0738ad0e173574141c543f69f/Hardware/LP55231_breakout.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0603-CAP","value":"1.0uF"},{"name":"0603-CAP","value":"0.47uf"},{"name":"1X08_NO_SILK","value":"To micro"},{"name":"1X04_NO_SILK_ALL_ROUND","value":"USER LED"},{"name":"PAD-JUMPER-3-3OF3_NC_BY_TRACE_YES_SILK_FULL_BOX","value":"I2C-PULLUPS"},{"name":"LED-TRICOLOR-5050","value":"TRICOLOR-5050"},{"name":"0603-RES","value":"150K"},{"name":"0603-RES","value":"4.7K"},{"name":"WQFN-24","value":"LP55231WQFN"}]}
