@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/Proto_Pedal/99e9f2d97dd3178dff03a40072ad28a70de1d308/Hardware/Proto_Pedal.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"DUAL-CAP","value":"C in"},{"name":"DUAL-CAP","value":"C out"},{"name":"LED-0603","value":"RED"},{"name":"AUDIO-JACK-_25-INCH-HORIZ-PTH","value":"INPUT JACK"},{"name":"1X02_LONGPADS","value":"9VBattery"},{"name":"POWER-BARRELJACK-PTH-LOCK-FIXED","value":"POWER_JACK_TIP_NEGATIVE"},{"name":"1X02_LONGPADS","value":"PTH-LED"},{"name":"AUDIO-JACK-_25-INCH-HORIZ-PTH","value":"OUTPUT JACK"},{"name":"SOT23-3","value":"2.5A/30V"},{"name":"0603-RES","value":"1M"},{"name":"AXIAL-0_3","value":"BRT"},{"name":"0603-RES","value":"1K"},{"name":"STOMP-SWITCH-3PDT","value":"SWITCH-3PDT"},{"name":"1X01_LONGPAD","value":"Out Ring"}]}
