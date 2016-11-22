@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/nRF52832_Breakout/a96c2db2edc38d55fd62744a8f9001d2732dc2ee/Hardware/sparkfun-nrf52832-breakout.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0603","value":"1.0uF"},{"name":"0603","value":"2.2uF"},{"name":"0402","value":"0.1uF"},{"name":"0402","value":"100pF"},{"name":"0402","value":"1.0uF"},{"name":"0603","value":"180pF"},{"name":"0402","value":"6pF"},{"name":"0402","value":"0.8pF"},{"name":"0402","value":"15pF"},{"name":"0603","value":"4.7uF"},{"name":"LED-0603","value":"RED"},{"name":"LED-0603","value":"BLUE"},{"name":"TRACE_ANTENNA_2_4GHZ_15_2MM","value":"ANT"},{"name":"FIDUCIAL-MICRO","value":"FIDUCIALUFIDUCIAL"},{"name":"SMT-JUMPER_2_NC_TRACE_SILK","value":"VDD-EN"},{"name":"SMT-JUMPER_2_NO_SILK","value":"NFC1"},{"name":"SMT-JUMPER_2_NO_SILK","value":"NFC2"},{"name":"0402","value":"3.9nH"},{"name":"OSHW-LOGO-MINI","value":"OSHW-LOGOMINI"},{"name":"0603","value":"1k"},{"name":"TACTILE_SWITCH_SMD_4_6X2_8MM","value":"TACTILE_SWITCH_SMD_4_6X2_8MM"},{"name":"SOT23-5","value":"AP2112K-3.3V"},{"name":"QFN48-6X6MM","value":"NRF52832"},{"name":"CRYSTAL-SMD-2_0X1_6MM","value":"32MHz"},{"name":"CRYSTAL-SMD-3_2X1_5MM","value":"32.768kHz"}]}
