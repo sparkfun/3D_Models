@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Serial_Controlled_Motor_Driver/ae64453bcca448ace5100b20c4e1b9929e9199d0/Hardware/Serial%20Controlled%20Motor%20Driver.brd) using EagleUp on 11/22/16 at 12:45:01 -07:00

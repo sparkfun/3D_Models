@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/Serial_Controlled_Motor_Driver/ae64453bcca448ace5100b20c4e1b9929e9199d0/Hardware/Serial%20Controlled%20Motor%20Driver.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0402","value":"1.0uF"},{"name":"0402","value":"0.1uF"},{"name":"EIA3216","value":"10uF"},{"name":"LED-0603","value":"RED"},{"name":"PAD-JUMPER-3-NO_YES_SILK","value":"JUMPER-PAD-3-NOYES_SILK"},{"name":"OSHW-LOGO-MINI","value":"OSHW-LOGOMINI"},{"name":"0603","value":"1"},{"name":"0603","value":"4.7k"},{"name":"0603","value":"470"},{"name":"SOT-23-5-VREG","value":"SPX3819M5_3_3"},{"name":"QFN-40","value":"CY8C4245LQI-483"},{"name":"WSON-12","value":"DRV8835"}]}
