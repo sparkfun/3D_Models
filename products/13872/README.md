@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Servo_Trigger/3d9b011d96cfc7ab404b7b7f712208e9bd7eb394/Hardware/SparkFun_Servo_Trigger.brd) using EagleUp on 11/23/16 at 14:19:47 -07:00
