@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Electret_Microphone_Breakout/74734d7194277107349c51a6234ede9676fa304a/Hardware/Electret_Microphone_Breakout.brd) using EagleUp on 11/23/16 at 13:41:55 -07:00
