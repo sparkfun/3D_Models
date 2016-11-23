@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/9DOF_Sensor_Stick/5be6bad2a1d5093b3c041b9109fd4fe0a52d3c52/Hardware/SparkFun_9DoF_Sensor_Stick.brd) using EagleUp on 11/22/16 at 19:43:55 -07:00

@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/9DOF_Sensor_Stick/5be6bad2a1d5093b3c041b9109fd4fe0a52d3c52/Hardware/SparkFun_9DoF_Sensor_Stick.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0603-CAP","value":"10uF"},{"name":"0603-CAP","value":"0.1uF"},{"name":"0603-CAP","value":"10nF"},{"name":"OSHW-LOGO-MINI","value":"OSHW-LOGOMINI"},{"name":"0603-RES","value":"4.7K"},{"name":"LGA24-8X4","value":"LSM9DS1"}]}
