@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/HX711-Load-Cell-Amplifier/9ed63de14c5508164881020c19a45cb76a5e0370/hardware/SparkFun_HX711_Load_Cell.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"1210","value":"10uF"},{"name":"0805","value":"3.3uH"},{"name":"SOT23-3","value":"MMBT4403"},{"name":"0603-RES","value":"20k"},{"name":"0603-RES","value":"8.2K"},{"name":"0603-RES","value":"100"},{"name":"0603-RES","value":"10K"},{"name":"SO16","value":"HX711"}]}

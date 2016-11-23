@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/HX711-Load-Cell-Amplifier/9ed63de14c5508164881020c19a45cb76a5e0370/hardware/SparkFun_HX711_Load_Cell.brd) using EagleUp on 11/22/16 at 20:55:07 -07:00
