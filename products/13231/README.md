@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/ESP8266_Thing/304920f83cf2e90491d33f77ce708744b3991c72/Hardware/SparkFun_ESP8266_Thing.brd) using EagleUp on 11/23/16 at 15:15:15 -07:00
