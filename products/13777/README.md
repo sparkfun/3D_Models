@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Battery_Babysitter/58da1588eece990db8ecd4736571a32784c79ab7/Hardware/sparkfun-battery-babysitter.brd) using EagleUp on 11/29/16 at 12:09:11 -07:00

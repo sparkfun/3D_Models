@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/Battery_Babysitter/58da1588eece990db8ecd4736571a32784c79ab7/Hardware/sparkfun-battery-babysitter.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"1206-CAP","value":"1.0uF"},{"name":"0805-CAP","value":"10uF"},{"name":"0603-CAP","value":"0.47uF"},{"name":"0603-CAP","value":"1.0uF"},{"name":"LED-0603","value":"BLUE"},{"name":"LED-0603","value":"RED"},{"name":"USB-AB-MICRO-SMD_V03","value":"USB-AB-MICRO-SMD_V03"},{"name":"JST-2-SMD","value":""},{"name":"1_6W-RES","value":"TS"},{"name":"0603-RES","value":"10K"},{"name":"1_6W-RES","value":"TMR"},{"name":"1_6W-RES","value":"ISET"},{"name":"0603-RES","value":"590"},{"name":"1_6W-RES","value":"ILIM"},{"name":"0603-RES","value":"1.1k"},{"name":"0603-RES","value":"100k"},{"name":"0603-RES","value":"180"},{"name":"0603-RES","value":"1K"},{"name":"1206","value":"0.01"},{"name":"0603-RES","value":"4.7K"},{"name":"SWITCH-SPST-SMD-A","value":"RIGHT_ANGLE_SLIDE_SWITCH_SMD"},{"name":"DIPSWITCH-02-50MIL","value":"SW_DIP-2_SMD"},{"name":"PVQFN-N16","value":"BQ24075"},{"name":"PDSO-N12","value":"BQ27441-G1"}]}
