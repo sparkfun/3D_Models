@@ -1,7 +1,7 @@
 3D Models for SparkFun Products!
 ----------------
 
-This is a repository of basic geometry and source CAD (if we have them) files for 3D models that appear on our website. Models are stored in real world (1x) scale. STL units are millimeters.
+This is a repository of basic geometry and source CAD files for 3D models that appear on our website. Models are stored in real world (1x) scale. STL units are millimeters.
 
 _If you are using [eagleUp](https://eagleup.wordpress.com/) be sure to only export ```Place``` layers_
 
@@ -9,7 +9,7 @@ _If you are using [eagleUp](https://eagleup.wordpress.com/) be sure to only expo
 
 Folders and file names must only use a-z, - and _
 
-#### Product geometry model structure:
+#### Product Geometry Model Structure:
 ```
 products/{product_id}/{rev_if_applicable}/{file_type}/
 
@@ -23,7 +23,7 @@ products/11113/rev_1.0/stl/11113.stl
 products/11113/rev_1.1/stl/11113.stl
 ```
 
-#### Source model structure:
+#### Source Model Structure:
 ```
 products/{product_id}/{rev_if_applicable}/source_{software}/
 
@@ -36,7 +36,7 @@ products/11763/rev_1.1/source_solidworks/11763.sldprt
 
 ```
 
-#### Product display structure:
+#### Product Display Structure:
 We can display any combination of stl or json with textures
 ```
 products/{product_id}/display/modela.stl
@@ -46,7 +46,7 @@ products/8601/display/8601a.stl
 products/8601/display/8601b.json
 products/8601/display/8601b_texture.png
 ```
-Hex for Lilypad 0x8000FF (purple)
+
 
 ## Blender Common Display Materials
 
@@ -70,14 +70,14 @@ Specular: #E6E6E6 Intensity: 0.5
 Hardness: 100
 ```
 
-#### Black plastic (Headers, specifically)
+#### Black Plastic (Headers)
 ```
 Diffuse:  #000000 Intensity: 0.8
 Specular: #A5A5A5 Intensity: 0.5
 Hardness: 50
 ```
 
-#### Black chip
+#### Black Chips
 ```
 Diffuse:  #000000 Intensity: 1.0
 Specular: #222222 Intensity: 0.5
@@ -91,22 +91,17 @@ Diffuse:  #98041C Intensity: 1.0
 Specular: #98041C Intensity: 0.5
 Hardness: 50
 ```
-_Textured Material_)(red)
+_Textured Material_ (Red)
 ```
 Diffuse:  #FF2835 Intensity: 0.8
 Specular: #98041C Intensity: 0.5
 Hardness: 50
 ```
-#### Blue plastic (Screw Terminals)
+
+#### Blue Plastic (Screw Terminals)
 ```
 Diffuse:  #0000FF Intensity: 0.8
 Specular: #0000A5 Intensity: 0.5
-Hardness: 50
-```
-#### Blue PCB (Arduino)
-```
-Diffuse:  #0C457C Intensity: 0.8
-Specular: #0F4E7A Intensity: 0.5
 Hardness: 50
 ```
 
@@ -159,9 +154,21 @@ Specular: #AA630A Intensity: 0.5
 Hardness: 100
 ```
 
-#### Yellow Tinted SMD LED 
+#### Yellow Tinted (SMD LED) 
 ```
 Diffuse:  #CCC48E Intensity: 0.8
 Specular: #FFFAD1 Intensity: 0.5
 Hardness: 100
+```
+
+#### Blue PCB (Arduino)
+```
+Diffuse:  #0C457C Intensity: 0.8
+Specular: #0F4E7A Intensity: 0.5
+Hardness: 50
+```
+
+#### Lilypad
+```
+Hex for Lilypad 0x8000FF (purple)
 ```
