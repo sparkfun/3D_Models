@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/OpenScale/024985ea47cda8cb59bba85389b6a6e1eeb8349c/hardware/OpenScale.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"0603-CAP","value":"47pF"},{"name":"0603-CAP","value":"1.0uF"},{"name":"EIA3216","value":"10uF"},{"name":"LED-1206","value":"YELLOW"},{"name":"LED-1206","value":"GREEN"},{"name":"LED-1206","value":"BLUE"},{"name":"PTC-1206","value":"PTCSMD"},{"name":"SCREWTERMINAL-3_5MM-3_LOCK_007S","value":"SCREWTERMINAL-3"},{"name":"USB-MINIB","value":"USBSMD"},{"name":"SCREWTERMINAL-3_5MM-5","value":"SCREWTERMINAL-5"},{"name":"0805","value":"3.3uH"},{"name":"SFE_LOGO_FLAME_STOP_1","value":"SFE_LOGO_FLAME.1_STOP"},{"name":"SOT23-3","value":"200mA/50V"},{"name":"SOT23-3","value":"MMBT4403"},{"name":"0603","value":"27"},{"name":"0603-RES","value":"10K"},{"name":"0603-RES","value":"100"},{"name":"0603-RES","value":"1K"},{"name":"0603-RES","value":"4.7K"},{"name":"0603-RES","value":"20K"},{"name":"0603-RES","value":"8.2K"},{"name":"TACTILE-SWITCH-1101NE","value":"Reset"},{"name":"SO16","value":"HX711"},{"name":"SOT563","value":"TMP102"},{"name":"TQFP32-08","value":"ATMEGA328P_TQFP"},{"name":"SSOP20_L","value":"FT231X"},{"name":"RESONATOR-SMD","value":"16MHZ"}]}
