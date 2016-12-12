@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/9DOF_Razor_IMU/d88e652ed68059452c908b18b18ad29f16b793af/Hardware/sparkfun-9dof-razor-imu.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0603","value":"1.0uF"},{"name":"0603","value":"2.2uF"},{"name":"0603","value":"4.7uF"},{"name":"0603","value":"0.1uF"},{"name":"0603","value":"15pF"},{"name":"SOD-323","value":"1A/23V/620mV"},{"name":"LED-0603","value":"Yellow"},{"name":"LED-0603","value":"RED"},{"name":"LED-0603","value":"BLUE"},{"name":"1206","value":"6V/0.5A"},{"name":"JST-2-SMD","value":"LiPo"},{"name":"USB-B-MICRO-SMD_V03","value":""},{"name":"MICRO-SD-SOCKET-PP","value":"USD_CONNECTOR"},{"name":"SMT-JUMPER_2_NC_PASTE_NO-SILK","value":"LED"},{"name":"0603","value":"4.7k"},{"name":"0603","value":"1k"},{"name":"0603","value":"2.2k"},{"name":"0603","value":"100k"},{"name":"0603","value":"10k"},{"name":"SWITCH-SPST-SMD-A","value":"SWITCH-SPST-SMD-A"},{"name":"SOT23-5","value":"3.3V"},{"name":"SOT23-5","value":"MCP73831"},{"name":"QFN24-3X3","value":"MPU-9250"},{"name":"TQFP-48","value":"ATSAMD21G-A"},{"name":"CRYSTAL-SMD-3_2X1_5MM","value":"32.768kHz"}]}
