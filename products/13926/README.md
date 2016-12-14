@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/MMA8452_Accelerometer/040530febc60bfa942f31474e95589cdee325a98/Hardware/SparkFun_MMA8452Q-Breakout.brd) using EagleUp on 12/14/16 at 13:21:06 -07:00
