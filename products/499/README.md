@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/SSOP-DIP_Adapter_20-Pin/10d497e779b9cb2b34d0840e5bcddeb4a442b8f2/Hardware/SparkFun_Adapter-SSOP20-v10.brd) using EagleUp on 12/27/16 at 14:57:02 -07:00
