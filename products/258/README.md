@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Serial_Enabled_LCD_Backpack/9c2e03d083ca6dba4fa9fb631d6185a5fc82931f/Hardware/Serial%20LCD%20Backpack%20v28.brd) using EagleUp on 12/27/16 at 14:04:33 -07:00
