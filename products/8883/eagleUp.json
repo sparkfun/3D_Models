@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/Low_Current_Sensor_Breakout-ACS712/e3eb53142b669611a43727dfc4fdd3435dd53f3d/Hardware/SparkFun_ACS712LowCurrentSensorBoard.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0402-CAP","value":"100pF"},{"name":"0402-CAP","value":"0.1uF"},{"name":"0402-CAP","value":"1nF"},{"name":"1X01_2MM","value":"M01PTH_2MM"},{"name":"0402-RES","value":"47K"},{"name":"0402-RES","value":"1K"},{"name":"TRIMPOT-3MM","value":"TRIMPOTSMD"},{"name":"SO08","value":"ACS712"},{"name":"SOT23-5","value":"OPA344"}]}
