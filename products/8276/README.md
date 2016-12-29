@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/XBee_Module_Breakout_Board/5fea5904f06a562172f03b6a42cb37f4769b4e84/Hardware/SparkFun_XBee-Breakout.brd) using EagleUp on 12/29/16 at 14:41:21 -07:00
