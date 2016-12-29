@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/Ambient_Light_Sensor_Breakout-TEMT6000/bbbfee0734e498cf4a768c77d1c4d9a8bd5335b4/Hardware/SparkFun_TEMT6000_Breakout-v12.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0402-RES","value":"10K"},{"name":"TEMT6000-SEN","value":"TEMT6000"}]}
