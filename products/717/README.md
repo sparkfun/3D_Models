@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/SOT23_DIP_Adapter/1f63fc1de420be96a14e310b6c1b1e2e89500cc0/Hardware/SparkFun_SOT23-DIP-Adapter-v10.brd) using EagleUp on 12/29/16 at 13:52:12 -07:00
