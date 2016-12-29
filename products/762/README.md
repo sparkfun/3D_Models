@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/USB_Bit_Whacker-18F2553/8bbbf6c35af66f88d0a27a04b205317551485123/Hardware/USB_Bit_Whacker-18F2553.brd) using EagleUp on 12/29/16 at 14:15:55 -07:00
