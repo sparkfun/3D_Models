@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/MicroSD_Sniffer/cb837970e6bd69acb9d3e0466fef1f0d04ab7078/Hardware/SparkFun_MicroSD_Sniffer.brd) using EagleUp on 01/10/17 at 9:44:30 -07:00
