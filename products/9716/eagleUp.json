@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/FTDI_Basic_Breakout-5V/8f524dd79f716601bb23a443ef8535156834dca1/Hardware/FTDI%20Basic-5V.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0603-CAP","value":"0.1uF"},{"name":"EIA3216","value":"10uF"},{"name":"LED-0603","value":"Red"},{"name":"LED-0603","value":"Green"},{"name":"0603-RES","value":"1K"},{"name":"SSOP28DB","value":"FT232RLSSOP"},{"name":"USB-MINIB-NOSTOP","value":"USB-SMD-NS"}]}
