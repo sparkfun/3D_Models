@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/FTDI_Basic_Breakout-5V/8f524dd79f716601bb23a443ef8535156834dca1/Hardware/FTDI%20Basic-5V.brd) using EagleUp on 01/11/17 at 11:08:30 -07:00
