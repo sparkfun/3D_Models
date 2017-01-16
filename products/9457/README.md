@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Motor_Driver-Dual_TB6612FNG/80ef87eba72853466aff40f08b740c7f4a1cf97a/Hardware/SparkFun_Motor_Driver-TB6612FNG.brd) using EagleUp on 01/16/17 at 16:28:46 -07:00
