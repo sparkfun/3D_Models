@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/XBee_Explorer_Serial/19982e4b096d979fb9c52df76db41bba5e75998a/Hardware/SparkFun_XBee_Serial_Explorer.brd) using EagleUp on 01/19/17 at 12:06:53 -07:00
