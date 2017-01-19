@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/LIS3DH_Breakout/c94244317535460eeb41527bb28ead6db3cc7c12/Hardware/SparkFun_LIS3DH-Breakout.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0402","value":"0.1uF"},{"name":"0603","value":"10uF"},{"name":"0603","value":"4.7k"},{"name":"0603","value":"10k"},{"name":"LGA-16-3X3","value":"LIS3DH"}]}

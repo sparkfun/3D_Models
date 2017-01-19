@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Ambient_Light_Sensor_Breakout-TEMT6000/bbbfee0734e498cf4a768c77d1c4d9a8bd5335b4/Hardware/SparkFun_TEMT6000_Breakout-v12.brd) using EagleUp on 12/29/16 at 15:02:15 -07:00

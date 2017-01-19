@@ -1,1 +1,1 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/SSOP-DIP_Adapter_28-Pin/aa7da5aee40eaa443f9eec398302200262ddd6c2/Hardware/SparkFun_SSOP28-DIP-Adapter-v12.brd) using EagleUp on 03/23/16 at 22:41:35 -06:00
+Models generated from [these file(s)](https://raw.github.com/sparkfun/SSOP-DIP_Adapter_28-Pin/aa7da5aee40eaa443f9eec398302200262ddd6c2/Hardware/SparkFun_SSOP28-DIP-Adapter-v12.brd) using EagleUp on 12/27/16 at 15:03:16 -07:00

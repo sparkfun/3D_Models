@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/LIS3DH_Breakout/c94244317535460eeb41527bb28ead6db3cc7c12/Hardware/SparkFun_LIS3DH-Breakout.brd) using EagleUp on 01/09/17 at 16:25:41 -07:00
