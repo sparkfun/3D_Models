@@ -1,1 +1,1 @@
-Models generated from [these file(s)](https://raw.github.com/sparkfun/9DOF_Razor_IMU/d88e652ed68059452c908b18b18ad29f16b793af/Hardware/sparkfun-9dof-razor-imu.brd) using EagleUp on 12/12/16 at 15:48:17 -07:00
+Models generated from [these file(s)](https://raw.github.com/sparkfun/9DOF_Razor_IMU/d88e652ed68059452c908b18b18ad29f16b793af/Hardware/sparkfun-9dof-razor-imu.brd) using EagleUp on 01/19/17 at 11:54:28 -07:00
