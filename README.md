@@ -147,10 +147,10 @@ Specular: #0A5D19 Intensity: 0.5
 Hardness: 100
 ```
 
-#### Brown Resistor
+#### TH Resistor
 ```
-Diffuse:  #835715 Intensity: 0.8
-Specular: #AA630A Intensity: 0.5
+Diffuse:  #DBB37B Intensity: 0.8
+Specular: #FFBA59 Intensity: 0.5
 Hardness: 100
 ```
 
