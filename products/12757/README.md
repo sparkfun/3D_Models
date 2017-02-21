@@ -1,1 +1,1 @@
-Models generated from [these file(s)](https://raw.githubusercontent.com/sparkfun/RedBoard/d41135c34b2b5b9f4c80d61f42bc962e1b741424/Hardware/RedBoard.brd) using EagleUp on 03/23/16 at 20:32:20 -06:00
+Models generated from [these file(s)](https://raw.github.com/sparkfun/RedBoard/9bcdb3b7d07ae4c54731653dd9f86e0e1df2084e/Hardware/RedBoard.brd) using EagleUp on 02/21/17 at 13:30:18 -07:00
