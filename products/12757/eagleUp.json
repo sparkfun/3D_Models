@@ -1,15 +1,13 @@
-{
-	"repository":    "https://raw.githubusercontent.com/sparkfun/RedBoard/d41135c34b2b5b9f4c80d61f42bc962e1b741424/Hardware/RedBoard.brd",
-	"resolution":    "600",
-	"outline_layer": "20",
-	"silk_layer":    "place",
-	"no_parts":      0,
-	"no_images":     0,
-	"skip_vias":     0,
-	"thickness":     1.6,
-	"board_color":   "0x98041C",
-	"trace_color":   "0xE2012D",
-	"plating":       "silver",
-	"silk":          "ivory",
-	"component_packages": [{"name":"1X06_SMD_STRAIGHT_COMBO","value":""},{"name":"0603-CAP","value":"0.1uF"},{"name":"EIA3216","value":"10uF"},{"name":"PANASONIC_D","value":"47uF"},{"name":"0603-CAP","value":"1uF"},{"name":"0603-CAP","value":"47pF"},{"name":"SMA-DIODE","value":"MBRA140"},{"name":"PTC-1206","value":"500mA"},{"name":"SOT223-ALT1","value":"LM1117"},{"name":"1X08_SMD_COMBINED","value":""},{"name":"POWER_JACK_SMD_OVERPASTE_REDBOARD_0603","value":"POWER_JACKOVERPASTE_REDBOARD_0603"},{"name":"2X3_SMT_POSTS","value":"ICSP"},{"name":"1X10_SMD_COMBINED","value":"M10SMD_COMBO"},{"name":"LED-1206-NO_SILK","value":"Blue"},{"name":"LED-1206-NO_SILK","value":"Green"},{"name":"LED-1206-NO_SILK","value":"Red"},{"name":"LED-1206-NO_SILK","value":"Yellow"},{"name":"SOT23-3","value":"ZXMP6A13FTA"},{"name":"SOT323","value":"2N7002PW"},{"name":"0603-RES","value":"1k"},{"name":"0603-RES","value":"10k"},{"name":"0603-RES","value":"27"},{"name":"0603-RES","value":"715"},{"name":"0603-RES","value":"240"},{"name":"TACTILE_SWITCH_SMD","value":"RESET"},{"name":"USB-MINIB","value":"USB-MINIB-5PIN"},{"name":"SSOP20_L","value":"FT231XS"},{"name":"SOT23-5","value":"MIC5205"},{"name":"TQFP32-08","value":"ATMEGA328"},{"name":"RESONATOR-SMD","value":"16MHz"}]
-}
+{"repository":"https://raw.github.com/sparkfun/RedBoard/9bcdb3b7d07ae4c54731653dd9f86e0e1df2084e/Hardware/RedBoard.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0603","value":"0.1uF"},{"name":"EIA3216","value":"10uF"},{"name":"PANASONIC_D","value":"47uF"},{"name":"0603","value":"1.0uF"},{"name":"0603","value":"47pF"},{"name":"SMA-DIODE","value":"MBRA140"},{"name":"1206","value":"6V/0.5A"},{"name":"SOT223-ALT1","value":"LM1117"},{"name":"2X3_SMT_POSTS","value":"ICSP"},{"name":"POWER_JACK_SMD_OVERPASTE_SUPER_BOMB_DIGITY","value":"POWER_JACKSUPER_BOMB_DIGITY"},{"name":"1X10_SMD_COMBINED","value":"M10SMD_COMBO"},{"name":"1X08_SMD_COMBINED","value":"JP10"},{"name":"1X08_SMD_COMBINED","value":"IOL"},{"name":"USB-MINIB","value":"USB-MINIB-5PIN"},{"name":"1X06_SMD_STRAIGHT_COMBO","value":"AD"},{"name":"LED-1206","value":"Blue"},{"name":"LED-1206","value":"Green"},{"name":"LED-1206","value":"Red"},{"name":"LED-1206","value":"Yellow"},{"name":"SOT23-3","value":"1A/60V/500mO"},{"name":"SOT323","value":"2N7002PW"},{"name":"0603","value":"1k"},{"name":"0603","value":"4.7k"},{"name":"0603","value":"10k"},{"name":"0603","value":"27"},{"name":"0603","value":"715"},{"name":"0603","value":"240"},{"name":"TACTILE-SWITCH-SMD","value":"RESET"},{"name":"SSOP20_L","value":"FT231XS"},{"name":"SOT23-5","value":"MIC5205"},{"name":"TQFP32-08","value":"ATMEGA328P_TQFP"},{"name":"RESONATOR-SMD-3_2X1_3","value":"16MHz"}]}
