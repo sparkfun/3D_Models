@@ -77,6 +77,13 @@ Specular: #A5A5A5 Intensity: 0.5
 Hardness: 50
 ```
 
+#### Black Metal 
+```
+Diffuse:  #000000 Intensity: 0.8
+Specular: #505050 Intensity: 0.5
+Hardness: 50
+```
+
 #### Black Chips
 ```
 Diffuse:  #000000 Intensity: 1.0
