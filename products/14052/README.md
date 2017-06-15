@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Spectacle_LED_Output_Board/081cb24712cdf89a96d13e313c06464d6e7fbb6c/Hardware/Spectacle_LED_Control_Board.brd) using EagleUp on 06/15/17 at 17:34:30 -06:00
