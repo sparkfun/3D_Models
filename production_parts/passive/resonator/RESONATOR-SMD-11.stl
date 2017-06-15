@@ -1,0 +1,366 @@
+solid RESONATOR-SMD-11
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 0.65 -1.5000000000000002 0.0
+    vertex -0.65 -1.6 0.0
+    vertex -0.65 -1.4999999999999998 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex -0.65 -1.6 0.0
+    vertex 0.65 -1.5000000000000002 0.0
+    vertex 0.65 -1.6 0.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex -0.55 -1.5000000000000002 0.4
+    vertex -0.65 1.5000000000000002 0.4
+    vertex -0.65 -1.4999999999999998 0.4
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex -0.65 1.5000000000000002 0.4
+    vertex -0.55 -1.5000000000000002 0.4
+    vertex -0.55 1.5000000000000002 0.4
+  endloop
+endfacet
+facet normal -0.0 1.0 0.0
+  outer loop
+    vertex -0.65 1.6 0.4
+    vertex 0.65 1.6 0.0
+    vertex -0.65 1.6 0.0
+  endloop
+endfacet
+facet normal -0.0 1.0 0.0
+  outer loop
+    vertex 0.65 1.6 0.0
+    vertex -0.65 1.6 0.4
+    vertex 0.65 1.6 0.4
+  endloop
+endfacet
+facet normal 1.0 -0.0 -0.0
+  outer loop
+    vertex 0.65 1.6 0.0
+    vertex 0.65 1.5000000000000002 0.4
+    vertex 0.65 1.4999999999999998 0.0
+  endloop
+endfacet
+facet normal 1.0 -0.0 -0.0
+  outer loop
+    vertex 0.65 1.5000000000000002 0.4
+    vertex 0.65 1.6 0.0
+    vertex 0.65 1.6 0.4
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 0.65 -1.6 0.4
+    vertex -0.65 -1.6 0.0
+    vertex 0.65 -1.6 0.0
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex -0.65 -1.6 0.0
+    vertex 0.65 -1.6 0.4
+    vertex -0.65 -1.6 0.4
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex -0.65 -1.4999999999999998 0.4
+    vertex -0.65 -1.6 0.0
+    vertex -0.65 -1.6 0.4
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex -0.65 -1.6 0.0
+    vertex -0.65 -1.4999999999999998 0.4
+    vertex -0.65 -1.4999999999999998 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 0.55 -1.5000000000000002 1.0
+    vertex -0.55 1.5000000000000002 1.0
+    vertex -0.55 -1.5000000000000002 1.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex -0.55 1.5000000000000002 1.0
+    vertex 0.55 -1.5000000000000002 1.0
+    vertex 0.55 1.5000000000000002 1.0
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 0.55 -1.5000000000000002 1.0
+    vertex -0.55 -1.5000000000000002 0.4
+    vertex 0.55 -1.5000000000000002 0.4
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex -0.55 -1.5000000000000002 0.4
+    vertex 0.55 -1.5000000000000002 1.0
+    vertex -0.55 -1.5000000000000002 1.0
+  endloop
+endfacet
+facet normal 1.0 -0.0 0.0
+  outer loop
+    vertex 0.55 1.5000000000000002 0.4
+    vertex 0.55 -1.5000000000000002 1.0
+    vertex 0.55 -1.5000000000000002 0.4
+  endloop
+endfacet
+facet normal 1.0 -0.0 0.0
+  outer loop
+    vertex 0.55 -1.5000000000000002 1.0
+    vertex 0.55 1.5000000000000002 0.4
+    vertex 0.55 1.5000000000000002 1.0
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex -0.55 1.5000000000000002 1.0
+    vertex 0.55 1.5000000000000002 0.4
+    vertex -0.55 1.5000000000000002 0.4
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 0.55 1.5000000000000002 0.4
+    vertex -0.55 1.5000000000000002 1.0
+    vertex 0.55 1.5000000000000002 1.0
+  endloop
+endfacet
+facet normal -1.0 -0.0 -0.0
+  outer loop
+    vertex -0.55 1.5000000000000002 1.0
+    vertex -0.55 -1.5000000000000002 0.4
+    vertex -0.55 -1.5000000000000002 1.0
+  endloop
+endfacet
+facet normal -1.0 -0.0 -0.0
+  outer loop
+    vertex -0.55 -1.5000000000000002 0.4
+    vertex -0.55 1.5000000000000002 1.0
+    vertex -0.55 1.5000000000000002 0.4
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 0.65 -1.6 0.4
+    vertex -0.65 -1.4999999999999998 0.4
+    vertex -0.65 -1.6 0.4
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex -0.65 -1.4999999999999998 0.4
+    vertex 0.65 -1.6 0.4
+    vertex -0.55 -1.5000000000000002 0.4
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex -0.55 -1.5000000000000002 0.4
+    vertex 0.65 -1.6 0.4
+    vertex 0.55 -1.5000000000000002 0.4
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 0.55 -1.5000000000000002 0.4
+    vertex 0.65 -1.6 0.4
+    vertex 0.65 -1.5000000000000002 0.4
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 0.65 -1.5000000000000002 0.4
+    vertex 0.55 1.5000000000000002 0.4
+    vertex 0.55 -1.5000000000000002 0.4
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 0.55 1.5000000000000002 0.4
+    vertex 0.65 -1.5000000000000002 0.4
+    vertex 0.65 1.5000000000000002 0.4
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex -0.55 1.5000000000000002 0.4
+    vertex -0.65 1.6 0.4
+    vertex -0.65 1.5000000000000002 0.4
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex -0.65 1.6 0.4
+    vertex -0.55 1.5000000000000002 0.4
+    vertex 0.65 1.6 0.4
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 0.65 1.6 0.4
+    vertex -0.55 1.5000000000000002 0.4
+    vertex 0.55 1.5000000000000002 0.4
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 0.65 1.6 0.4
+    vertex 0.55 1.5000000000000002 0.4
+    vertex 0.65 1.5000000000000002 0.4
+  endloop
+endfacet
+facet normal 1.0 -0.0 -0.0
+  outer loop
+    vertex 0.65 1.4999999999999998 0.0
+    vertex 0.65 -1.5000000000000002 0.4
+    vertex 0.65 -1.5000000000000002 0.0
+  endloop
+endfacet
+facet normal 1.0 -0.0 -0.0
+  outer loop
+    vertex 0.65 -1.5000000000000002 0.4
+    vertex 0.65 1.4999999999999998 0.0
+    vertex 0.65 1.5000000000000002 0.4
+  endloop
+endfacet
+facet normal 1.0 -0.0 -0.0
+  outer loop
+    vertex 0.65 -1.5000000000000002 0.0
+    vertex 0.65 -1.6 0.4
+    vertex 0.65 -1.6 0.0
+  endloop
+endfacet
+facet normal 1.0 -0.0 -0.0
+  outer loop
+    vertex 0.65 -1.6 0.4
+    vertex 0.65 -1.5000000000000002 0.0
+    vertex 0.65 -1.5000000000000002 0.4
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex -0.65 1.6 0.4
+    vertex -0.65 1.5000000000000002 0.0
+    vertex -0.65 1.5000000000000002 0.4
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex -0.65 1.5000000000000002 0.0
+    vertex -0.65 1.6 0.4
+    vertex -0.65 1.6 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 0.65 1.6 0.0
+    vertex -0.65 1.5000000000000002 0.0
+    vertex -0.65 1.6 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex -0.65 1.5000000000000002 0.0
+    vertex 0.65 1.6 0.0
+    vertex 0.65 1.4999999999999998 0.0
+  endloop
+endfacet
+facet normal 1.0223146463964492e-16 1.0 -4.511946372076636e-16
+  outer loop
+    vertex -0.65 1.5000000000000002 0.4
+    vertex 0.65 1.4999999999999998 0.0
+    vertex -0.65 1.5000000000000002 0.0
+  endloop
+endfacet
+facet normal 1.0223146463964492e-16 1.0 -4.511946372076636e-16
+  outer loop
+    vertex 0.65 1.4999999999999998 0.0
+    vertex -0.65 1.5000000000000002 0.4
+    vertex 0.65 1.5000000000000002 0.4
+  endloop
+endfacet
+facet normal 1.0223146463964492e-16 1.0 -4.511946372076636e-16
+  outer loop
+    vertex 0.65 1.5000000000000002 0.4
+    vertex -0.65 1.5000000000000002 0.4
+    vertex -0.55 1.5000000000000002 0.4
+  endloop
+endfacet
+facet normal 1.0223146463964492e-16 1.0 -4.511946372076636e-16
+  outer loop
+    vertex 0.65 1.5000000000000002 0.4
+    vertex -0.55 1.5000000000000002 0.4
+    vertex 0.55 1.5000000000000002 0.4
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex -0.65 1.5000000000000002 0.4
+    vertex -0.65 -1.4999999999999998 0.0
+    vertex -0.65 -1.4999999999999998 0.4
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex -0.65 -1.4999999999999998 0.0
+    vertex -0.65 1.5000000000000002 0.4
+    vertex -0.65 1.5000000000000002 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 0.65 1.4999999999999998 0.0
+    vertex -0.65 -1.4999999999999998 0.0
+    vertex -0.65 1.5000000000000002 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex -0.65 -1.4999999999999998 0.0
+    vertex 0.65 1.4999999999999998 0.0
+    vertex 0.65 -1.5000000000000002 0.0
+  endloop
+endfacet
+facet normal -2.0446292927928984e-16 -1.0 -2.255973186038318e-16
+  outer loop
+    vertex 0.65 -1.5000000000000002 0.4
+    vertex -0.65 -1.4999999999999998 0.0
+    vertex 0.65 -1.5000000000000002 0.0
+  endloop
+endfacet
+facet normal -2.0446292927928984e-16 -1.0 -2.255973186038318e-16
+  outer loop
+    vertex -0.65 -1.4999999999999998 0.0
+    vertex 0.65 -1.5000000000000002 0.4
+    vertex -0.65 -1.4999999999999998 0.4
+  endloop
+endfacet
+facet normal -2.0446292927928984e-16 -1.0 -2.255973186038318e-16
+  outer loop
+    vertex -0.65 -1.4999999999999998 0.4
+    vertex 0.65 -1.5000000000000002 0.4
+    vertex 0.55 -1.5000000000000002 0.4
+  endloop
+endfacet
+facet normal -2.0446292927928984e-16 -1.0 -2.255973186038318e-16
+  outer loop
+    vertex -0.65 -1.4999999999999998 0.4
+    vertex 0.55 -1.5000000000000002 0.4
+    vertex -0.55 -1.5000000000000002 0.4
+  endloop
+endfacet
+endsolid RESONATOR-SMD-11
