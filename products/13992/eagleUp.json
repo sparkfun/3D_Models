@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/Spectacle_Accelerometer_Input_Board/e0f6cd266703f2c3e365f00052b49b6de8286f51/Hardware/Spectacle_Accelerometer_Input_Board.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"0603-CAP","value":"2.2uF"},{"name":"0402-CAP","value":"1.0uF"},{"name":"0402-CAP","value":"0.1uF"},{"name":"EIA3216","value":"10uF"},{"name":"LED-0603","value":"RED"},{"name":"LED-0603","value":"Yellow"},{"name":"SOT23-3","value":"PESD1CAN"},{"name":"AUDIO_JACK_3_5MM_TRRS_SMD_RA","value":"AUDIO_JACK_TRRSSMD_RA"},{"name":"0603-RES","value":"10K"},{"name":"0603-RES","value":"0.27"},{"name":"0603-RES","value":"4.7K"},{"name":"0603-RES","value":"1K"},{"name":"QFN-32","value":"CY8C4146LQI-S422"},{"name":"SOT23-5","value":"3.3V/150mA"},{"name":"ADXL3451_1","value":"ADXL345"},{"name":"SOT23-5","value":"SN74LVC1G66"}]}
