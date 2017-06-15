@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Spectacle_Accelerometer_Input_Board/e0f6cd266703f2c3e365f00052b49b6de8286f51/Hardware/Spectacle_Accelerometer_Input_Board.brd) using EagleUp on 06/15/17 at 17:48:22 -06:00
