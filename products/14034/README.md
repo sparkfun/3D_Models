@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Spectacle_Audio_Output_Board/f2d2f905f22a06a8891a58d7cf3dd5a14eb73c2e/Hardware/Spectacle_Audio_Output_Board.brd) using EagleUp on 06/17/17 at 14:54:36 -06:00
