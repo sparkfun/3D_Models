@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Spectacle_Director_Board/6b433de0e48c36e585eef9cb84f6124da7db17a5/Hardware/Spectacle_Director_Board.brd) using EagleUp on 06/17/17 at 15:07:56 -06:00
