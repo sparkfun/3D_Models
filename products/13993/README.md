@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Spectacle_Motion_Board/f64d51d1df1055738668e9282928561f404ba8e6/Hardware/Spectacle_Motion_Board.brd) using EagleUp on 06/17/17 at 16:02:28 -06:00
