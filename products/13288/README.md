@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/Teensy_Arduino_Shield_Adapter/b9727e173f7be361b7c1f0c8ba8b84cd5409cad7/Hardware/SparkFun_Teensy_Adapter.brd) using EagleUp on 08/08/17 at 17:09:28 -06:00
