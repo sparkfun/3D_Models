@@ -1,0 +1,13 @@
+{"repository":"https://raw.github.com/sparkfun/Teensy_Arduino_Shield_Adapter/b9727e173f7be361b7c1f0c8ba8b84cd5409cad7/Hardware/SparkFun_Teensy_Adapter.brd",
+"resolution":"600",
+"outline_layer":"20",
+"silk_layer":"place",
+"no_parts":0,
+"no_images":0,
+"skip_vias":0,
+"thickness":1.6,
+"board_color":"0x98041C",
+"trace_color":"0xE2012D",
+"plating":"silver",
+"silk":"ivory",
+"component_packages": [{"name":"BATTCON_12MM_PTH","value":"CoinCell"},{"name":"CPOL-RADIAL-10UF-25V","value":"10uF"},{"name":"POWER_JACK_PTH_LOCK","value":"POWER_JACKPTH_LOCK"},{"name":"JST-2-PTH","value":"JST2"},{"name":"UNO_R3_SHIELD_HOLES","value":"ARDUINO_R3_SHIELDUNO_R3_SHIELD_HOLES"},{"name":"TEENSY-3_1","value":"TEENSY-3.1SILK"},{"name":"TO-220-ALT","value":"5V"}]}
