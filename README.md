@@ -120,7 +120,7 @@ Hardness: 25
 ```
 
 #### Grey Plastic
-````
+```
 Diffuse:  #8A8A8A Intensity: 1.0
 Specular: #FFFFFF Intensity: 0.25
 Hardness: 50
