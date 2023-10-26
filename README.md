@@ -127,7 +127,7 @@ Hardness: 50
 ```
 
 #### Yellow Plastic (Li-ion Battery)
-````
+```
 Diffuse:  #CC9D00 Intensity: 0.8
 Specular: #FFD700 Intensity: 0.5
 Hardness: 50
